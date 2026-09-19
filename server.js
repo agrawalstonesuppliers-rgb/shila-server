@@ -3,7 +3,7 @@
    Agrawal Stone Suppliers
 
    What this does:
-   - POST /api/chat  -> answers a visitor's question using Gemini, grounded
+   - POST /api/chat  -> answers a visitor's question using OpenAI, grounded
      in site-knowledge.txt (the site's own product/rate/policy info)
    - POST /api/lead  -> saves a visitor's contact details + transcript to
      Supabase, and sends an email alert (and WhatsApp alert, if configured)
@@ -12,17 +12,14 @@
      whether the server is alive by visiting the URL directly
    - GET  /health    -> same, as JSON
 
-   IMPORTANT — why this file replaces the old one:
-   The previous version used the "@google/generative-ai" npm package, which
-   Google has deprecated. Google is also in the middle of switching newly
-   issued API keys from the old "AIza..." format to a new "AQ...." format
-   ("Authorization keys"). The old, deprecated package was never updated to
-   understand the new key format, so every request failed with:
-     401 UNAUTHENTICATED — ACCESS_TOKEN_TYPE_UNSUPPORTED
-   even though the key itself was completely valid.
-
-   This file uses "@google/genai" instead — the current, supported package,
-   which understands both old and new key formats. That is the actual fix.
+   NOTE on provider: this uses OpenAI instead of Gemini. Google's Gemini API
+   is currently issuing a new "AQ." key format that is being rejected by
+   Google's own generativelanguage.googleapis.com endpoint with a
+   401 ACCESS_TOKEN_TYPE_UNSUPPORTED error, for many developer accounts
+   including this one — confirmed even with a brand-new Google Cloud
+   project. This is a known, currently-unresolved issue on Google's side,
+   not something fixable from this codebase. OpenAI's API keys (sk-...) do
+   not have this problem.
    ========================================================================== */
 
 'use strict';
@@ -31,14 +28,14 @@ const express = require('express');
 const cors = require('cors');
 const fs = require('fs');
 const path = require('path');
-const { GoogleGenAI } = require('@google/genai');
+const OpenAI = require('openai');
 
 // ---------------------------------------------------------------------------
 // Environment variables (set these in Render → your service → Environment)
 // ---------------------------------------------------------------------------
 const PORT = process.env.PORT || 3000;
-const GEMINI_API_KEY = process.env.GEMINI_API_KEY;
-const GEMINI_MODEL = process.env.GEMINI_MODEL || 'gemini-2.5-flash';
+const OPENAI_API_KEY = process.env.OPENAI_API_KEY;
+const OPENAI_MODEL = process.env.OPENAI_MODEL || 'gpt-4o-mini';
 
 const SUPABASE_URL = process.env.SUPABASE_URL;
 const SUPABASE_SERVICE_KEY = process.env.SUPABASE_SERVICE_KEY;
@@ -56,8 +53,8 @@ const ALLOWED_ORIGINS = (process.env.ALLOWED_ORIGINS || 'https://kotastone.co,ht
   .map(function (s) { return s.trim(); })
   .filter(Boolean);
 
-if (!GEMINI_API_KEY) {
-  console.error('FATAL: GEMINI_API_KEY is not set. /api/chat will not work until it is.');
+if (!OPENAI_API_KEY) {
+  console.error('FATAL: OPENAI_API_KEY is not set. /api/chat will not work until it is.');
 }
 
 // ---------------------------------------------------------------------------
@@ -70,7 +67,7 @@ try {
   console.error('WARNING: could not read site-knowledge.txt — Shila will have no product knowledge.', e.message);
 }
 
-const SYSTEM_INSTRUCTION =
+const SYSTEM_PROMPT =
   'You are Shila, the friendly help-desk assistant for Agrawal Stone Suppliers ' +
   '(kotastone.co), a Kota stone and sandstone supplier based in Ramganjmandi, Kota, Rajasthan. ' +
   'Answer visitor questions about rates, sizes, grades, finishes, delivery, and anything else ' +
@@ -82,31 +79,32 @@ const SYSTEM_INSTRUCTION =
   '--- SITE INFORMATION ---\n' + SITE_KNOWLEDGE;
 
 // ---------------------------------------------------------------------------
-// Gemini client (current SDK — supports both AIza and AQ key formats)
+// OpenAI client
 // ---------------------------------------------------------------------------
-const ai = GEMINI_API_KEY ? new GoogleGenAI({ apiKey: GEMINI_API_KEY }) : null;
+const openai = OPENAI_API_KEY ? new OpenAI({ apiKey: OPENAI_API_KEY }) : null;
 
-async function askGemini(message, history) {
-  if (!ai) { throw new Error('Gemini is not configured (missing GEMINI_API_KEY)'); }
+async function askAI(message, history) {
+  if (!openai) { throw new Error('OpenAI is not configured (missing OPENAI_API_KEY)'); }
 
-  // Client sends history as [{role: 'user'|'assistant', content: '...'}, ...];
-  // Gemini wants [{role: 'user'|'model', parts: [{text: '...'}]}, ...].
-  var contents = (history || []).map(function (m) {
-    return {
-      role: m.role === 'assistant' ? 'model' : 'user',
-      parts: [{ text: String(m.content || '') }]
-    };
+  // Client sends history as [{role: 'user'|'assistant', content: '...'}, ...],
+  // which is already exactly the shape OpenAI's chat API wants.
+  var messages = [{ role: 'system', content: SYSTEM_PROMPT }];
+  (history || []).forEach(function (m) {
+    messages.push({
+      role: m.role === 'assistant' ? 'assistant' : 'user',
+      content: String(m.content || '')
+    });
   });
-  contents.push({ role: 'user', parts: [{ text: message }] });
+  messages.push({ role: 'user', content: message });
 
-  var response = await ai.models.generateContent({
-    model: GEMINI_MODEL,
-    contents: contents,
-    config: { systemInstruction: SYSTEM_INSTRUCTION }
+  var completion = await openai.chat.completions.create({
+    model: OPENAI_MODEL,
+    messages: messages
   });
 
-  var text = response && response.text;
-  if (!text) { throw new Error('Empty response from Gemini'); }
+  var text = completion && completion.choices && completion.choices[0] &&
+    completion.choices[0].message && completion.choices[0].message.content;
+  if (!text) { throw new Error('Empty response from OpenAI'); }
   return text;
 }
 
@@ -209,7 +207,7 @@ app.get('/', function (req, res) {
 app.get('/health', function (req, res) {
   res.json({
     ok: true,
-    gemini: !!ai,
+    openai: !!openai,
     supabase: !!supabase,
     email: !!mailTransport,
     whatsapp: !!(CALLMEBOT_APIKEY && CALLMEBOT_PHONE)
@@ -222,7 +220,7 @@ app.post('/api/chat', async function (req, res) {
     var history = (req.body && req.body.history) || [];
     if (!message) { return res.status(400).json({ error: 'message is required' }); }
 
-    var reply = await askGemini(message, history);
+    var reply = await askAI(message, history);
     res.json({ reply: reply });
   } catch (e) {
     console.error('chat error:', e.message);
@@ -256,7 +254,7 @@ app.use(function (err, req, res, next) { // eslint-disable-line no-unused-vars
 
 app.listen(PORT, function () {
   console.log('Shila server listening on port ' + PORT);
-  console.log('Gemini configured:', !!ai, '| Supabase configured:', !!supabase,
+  console.log('OpenAI configured:', !!openai, '| Supabase configured:', !!supabase,
     '| Email configured:', !!mailTransport,
     '| WhatsApp configured:', !!(CALLMEBOT_APIKEY && CALLMEBOT_PHONE));
 });

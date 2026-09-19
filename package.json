@@ -1,16 +1,16 @@
 {
   "name": "shila-server",
-  "version": "2.0.0",
-  "description": "Chat + lead backend for Shila, the kotastone.co help widget (Gemini + Supabase + email/WhatsApp alerts).",
+  "version": "3.0.0",
+  "description": "Chat + lead backend for Shila, the kotastone.co help widget (OpenAI + Supabase + email/WhatsApp alerts).",
   "main": "server.js",
   "scripts": {
     "start": "node server.js"
   },
   "engines": {
-    "node": ">=20.0.0"
+    "node": ">=22.0.0"
   },
   "dependencies": {
-    "@google/genai": "^2.23.0",
+    "openai": "^7.19.0",
     "@supabase/supabase-js": "^2.116.0",
     "cors": "^2.8.6",
     "express": "^5.2.1",
