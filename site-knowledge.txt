@@ -1,141 +1,224 @@
+AGRAWAL STONE SUPPLIERS — SITE KNOWLEDGE
+(For Shila, the kotastone.co chat assistant. Answer only from this file; if something
+genuinely isn't covered here, say so honestly and point to WhatsApp/contact page.)
 
-## Kota Stone
-- Kota Stone (kota-stone.html): Grey, green and brown limestone — the workhorse floor.
-- Grey / Blue Kota Stone (kota-grey.html): The classic blue-grey limestone. Natural, diamond cut, honed or mirror polish.
-- Green Kota Stone (kota-green.html): Deep green, the premium grade. 46″ × 22″ calibrated in stock.
-- Brown / Honey Kota Stone (kota-brown.html): Warm honey to tan tones for exteriors. Honed and mirror polish, 22″ × 22″.
-- High Polish Calibrated Kota 22″ × 22″ (kota-polished-22x22.html): Mirror face, machine-calibrated back — for thin-bed adhesive floors.
-- Kota Stone Grades — Fresh, Medium, Waterproof (kota-grades.html): Rough fresh, diamond-cut medium and waterproof (rough reject) — the honest trade-off on price.
-- Kota Stone Cobbles (kota-cobbles.html): Hand-cut cobbles and setts, blue and brown.
-- All Kota Sizes & Thickness (sizes.html): Every size, thickness and weight, for Kota and Mandana.
-- Cutting sizes we cut every day (sizes.html#cutting-sizes): 19 standard cut-to-size modules, 9″ × 9″ to 46″ × 22″, with sq ft and pemaish billing.
-- Kota Stone Cowin (stone-coving.html): Cove skirting with ready-made internal and external corners.
+=== COMPANY ===
+Name: Agrawal Stone Suppliers (Star Group)
+Website: kotastone.co
+Address: Industrial Area, Amarpura, Ramganjmandi, Kota, Rajasthan 326519
+Phone / WhatsApp: +91 88901 20363
+Email: agrawalstonesuppliers@gmail.com
+GSTIN: 08AVWPG0336Q1ZW
+Proprietor: Sharda Gupta
+Partner — Sales & Exports: Pankaj Gupta (usually who customers speak with for sales/export queries)
+In business since 2008. Own quarrying, cutting and finishing unit at Amarpura — factory-direct,
+not a trader/middleman.
+Sister concerns exist under related names (e.g. Agrawal Stone Mart, proprietor Pankaj Gupta) —
+if asked about a differently-named firm, clarify this is Agrawal Stone Suppliers specifically.
 
-## Mandana Stone
-- Mandana Stone (mandana-sandstone.html): Rajasthan red sandstone, honed through to mirror polish.
-- Red Mandana Stone (mandana-red.html): Random bed-run slabs and 22″ × 22″ cut squares.
-- Mandana Honed (mandana-honed.html): Ground flat to a soft, rose-toned matte.
-- Mandana Mirror Polish (mandana-mirror-polish.html): Full gloss, full slab — warm red-brown under polish.
-- Mandana Stone Diamond Polish (mandana-diamond-polished.html): Machine-polished on the diamond line. Random slabs and 22″ × 22″.
-- Kandla Grey Stone (kandla-grey.html): The pale grey export paving standard. Frost-stable.
-- Raj Green Stone (raj-green.html): One stone, two faces — pale sawn, multi-tonal riven.
+=== STONES SUPPLIED ===
 
-## Basalt Stone
-- Black Basalt Stone (basalt.html): The hardest stone we supply. Volcanic, near non-porous. Grooved and diamond-cut work.
+1. KOTA LIMESTONE (the core product)
+- Fine-grained calcareous limestone, quarried and cut at Amarpura.
+- Colours: Grey/blue-grey, green, brown & honey.
+- Density 2,400–2,600 kg/m3. Compressive strength 1,800–2,200 kg/cm2.
+  Modulus of rupture 170–200 kg/cm2. Water absorption under 0.40%. Mohs hardness 3–4.
+- Excellent frost/weather resistance, non-slip natural face. Acid-sensitive — avoid strong
+  acids on polished faces.
+- GRADES (quality sorting — independent of finish): Fresh (tightest sort, even colour, clean
+  edges — for visible interior floors/showrooms), Medium (wider tolerance, more tonal
+  variation, cheaper — for back-of-house/budget work), Waterproof (rough-reject grade,
+  rough face ONLY — roofs, sheds, plinths, paths).
+- IMPORTANT: grade and finish are separate choices. Fresh and Medium are each available in
+  ANY finish (rough natural, diamond-sawn, honed, mirror polish, table polish, high polish).
+  Waterproof is the one exception — rough face only, not offered in other finishes.
+- Thickness supplied: 11–102 mm.
+- Best for: residential/commercial flooring, corridors, courtyards, covered walkways. Not
+  recommended for continuously wet external areas without a compatible sealant.
 
-## Cobbles
-- Cobbles & Setts (cobbles-setts.html): All stones, hand-cut paving units.
+2. MANDANA SANDSTONE (Red)
+- Hard, close-grained natural red sandstone, denser than most Indian sandstones.
+- Colour: red, deepening to warm red-brown under polish.
+- Density 2,200–2,400 kg/m3. Compressive strength 800–1,200 kg/cm2. Modulus of rupture
+  120–160 kg/cm2. Water absorption 1.0–2.0%. Mohs hardness 6–7 (quartz-bearing).
+- Excellent weather resistance, through-body colour (doesn't fade). Very good acid/alkali
+  resistance.
+- Thickness: 15–100 mm. Finishes: natural, honed, mirror, diamond polish.
+- Best for: building elevations, wall cladding, exposed paving, garden paths, boundary work.
 
-## Designer Tiles
-- Stone Designer Tiles (designer-tiles.html): Patterned floor tiles held alongside the stone.
+3. KANDLA GREY SANDSTONE
+- Hard, quartz-bearing sandstone. Pale silver-grey dry, deepens to mid grey wet/sealed.
+- Density 2,200–2,400 kg/m3. Compressive strength 1,100–1,600 kg/cm2. Modulus of rupture
+  120–150 kg/cm2. Water absorption 0.5–2.0%. Porosity 3–5%. Mohs hardness 6–7.
+- Excellent frost resistance (widely used in European paving). High slip resistance in
+  riven/sandblasted/flamed finishes.
+- Thickness: 15–100 mm. 9 finishes available.
+- Best for: external paving, courtyards, pool surrounds, landscaping.
 
-## Specify
-- Finishes & Surfaces (finishes.html): Every finish we run — natural to mirror polish, explained.
-- Applications (applications.html): Where our stone ends up — flooring, paving, cladding, driveways.
+4. RAJ GREEN SANDSTONE
+- Hard, silica-based sandstone. Pale cream-buff sawn/sandblasted; multi-tonal green/buff/
+  brown/grey in natural riven face. Through-body colour, doesn't fade.
+- Density 2,200–2,400 kg/m3. Compressive strength 1,000–1,500 kg/cm2. Modulus of rupture
+  120–160 kg/cm2. Water absorption 1.0–3.0%. Porosity 3–6%. Mohs hardness 6–7.
+- Excellent frost resistance.
+- Thickness: 15–100 mm. 8 finishes available.
+- Best for: landscaping, garden paving, patios, external walkways.
 
-## Company
-- Projects (projects.html): Supply references across residential, institutional and heritage work.
+5. BLACK BASALT
+- Fine-grained igneous volcanic rock (Deccan Traps). Dense, non-porous, ~3x the compressive
+  strength of Kota limestone.
+- Colour: jet black to charcoal grey, deepens when polished.
+- Density 2,800–3,000 kg/m3. Compressive strength 1,500–3,000 kg/cm2 (150–300 MPa).
+  Modulus of rupture 200–250 kg/cm2 (20–25 MPa). Water absorption under 0.5%. Mohs hardness 6.
+- Excellent frost & salt resistance (coastal/de-iced surfaces OK). Excellent acid/alkali
+  resistance (chemically inert). Very high slip resistance when flamed/bush-hammered.
+- Thickness: 15–100 mm. 9 finishes available.
+- Best for: high-traffic commercial paving, coastal/poolside surfaces, cladding, pharma/
+  industrial/cleanroom surrounds (maximum compressive strength + chemical inertness).
 
-## Gallery
-- Gallery (gallery.html): Photograph sets by stone - pick a stone, see only its photographs.
-- Gallery: Kota Stone (gallery-kota-stone.html): 66 photographs of blue, green and brown Kota in every finish.
-- Gallery: Mandana Sandstone (gallery-mandana.html): Red Mandana natural, honed, mirror and diamond polish.
-- Gallery: Kandla Grey (gallery-kandla-grey.html): Grey Rajasthan sandstone, dry and unsealed.
-- Gallery: Raj Green (gallery-raj-green.html): Raj Green sawn and sandblasted stock.
-- Gallery: Black Basalt (gallery-basalt.html): Rock-faced strips, honed slabs, grooved and diamond-cut work, cobbles and raw blocks.
-- Gallery: Cobbles & Setts (gallery-cobbles.html): Hand-cut cobbles and setts across every stone.
-- Gallery: Cowin & Corners (gallery-cowin.html): Cowin runs and ready-made corner pieces.
-- Gallery: Designer Tiles (gallery-designer-tiles.html): The patterned and inlay tile line on the display racks.
-- Gallery: The Yard & Dispatch (gallery-yard.html): The unit at Amarpura, quarry blocks, sorting and loading.
+=== OTHER PRODUCT LINES ===
+- Designer Tiles: a separate patterned/inlay tile line (diamond, checkerboard, brick-bond,
+  marble-effect, stone-inlay patterns) — explicitly NOT the same as natural cut stone; the
+  site is upfront about this distinction ("A separate line, and we say so").
+- Cobbles & Setts: small units in Kota (blue and brown) and Black Basalt, standard modules
+  with defined coverage rates.
+- Cowin (coving corner pieces): ready-made corner/skirting pieces for compliance-standard
+  applications (e.g. pharma/cleanroom).
+- Kota grades page explains Fresh/Medium/Waterproof in detail (see GRADES above).
 
-## Company
-- About Us (about.html): Two generations in Ramganjmandi.
-- Sister Concerns (sister-concerns.html): The associated firms in the Star Group.
-- The Yard (the-yard.html): Our unit, stock and dispatch at Amarpura.
-- Resources & Guides (resources.html): Specification and buying advice.
-- FAQ (faq.html): Sizes, MOQs, freight and payment.
-- Contact (contact.html): Get in touch with us.
-- Request a Quote (quote.html): Tell us the size, finish and quantity.
+=== SIZES, THICKNESS & FINISHES ===
+- Thickness range across the ladder: 11 mm up to 102 mm (custom thickness also quotable).
+- Common standard sizes include 22"×22" (mirror-polished squares are a signature product),
+  18"×18", 24"×24", and random/crazy sizes for paving-style laying.
+- Finishes across the stone range: natural/rough face, diamond-sawn, honed, mirror polish,
+  table polish, high polish — see the finishes page for which suits which application.
 
-## Buying guide
-- Kota Stone vs Marble, Granite & Vitrified Tiles (guide-kota-stone-vs-marble-granite-tiles.html): An honest comparison of Kota limestone against marble, granite and vitrified tile on cost, durability, maintenance and where each one actually belongs.
+=== TOOLS ON THE SITE ===
+- Kota Stone Calculator: works out area, wastage, weight, truck loads and total cost from
+  size/rate/thickness/freight inputs; has a "Send on WhatsApp" button to turn the calculation
+  straight into an enquiry. Thickness options run the full 11–102 mm range, plus a "Custom
+  thickness" option for anything outside the standard bands.
+- Flooring cost calculator: full landed-cost calculator (material + freight + labour +
+  bedding + polishing).
+- Technical Data Sheets (PDF): downloadable one-page datasheets for each stone (Kota
+  Limestone, Mandana Sandstone, Kandla Grey, Raj Green, Black Basalt) with density,
+  compressive strength, modulus of rupture, water absorption, hardness, frost/acid/slip
+  resistance, standard sizes and recommended applications — in English and Hindi. Linked
+  from each stone's own page. Useful for architects/engineers who want to file a spec sheet;
+  note that figures are typical ranges, not a batch-specific lab certificate (those can be
+  arranged on request for tenders).
 
-## Specification
-- How to specify Kota stone: thickness, size and calibration (guide-kota-stone-thickness-size-specification.html): A specifier's guide to choosing Kota stone thickness and slab size by application, and when calibrated material is worth the premium.
+=== HOW THE STONE IS MADE (process videos) ===
+stone-process.html has 3 real videos filmed at our own Amarpura unit, showing cutting and
+finishing:
+- "Two edges, one true right angle" (0:58) — the edge-cutting line taking both adjoining
+  edges of a piece square to each other under constant water spray, so corners lay to a
+  tight joint on site.
+- "Table polish" and "Diamond polish" (0:25-1:09) — the two polishing finishes, filmed on
+  our own line.
+mandana-sandstone.html also has its own video — "Mandana slabs, loaded by hand" (0:37),
+three men to a slab, carried flat from the stack to the truck at our Amarpura yard.
+Kandla Grey also has a dedicated gallery photo of quarry blocks (marked and stacked at the
+yard before cutting), on gallery-kandla-grey.html (4 photographs total for that gallery now).
 
-## Installation
-- Laying Kota stone flooring: a site guide (guide-laying-kota-stone-flooring.html): Step-by-step guidance on substrate preparation, mortar beds, laying, jointing, grinding and first polish for Kota stone floors.
+=== GALLERY / PORTFOLIO ===
+The site has photo galleries for: Kota Stone, Mandana Sandstone, Kandla Grey, Raj Green,
+Black Basalt, Cobbles & Setts, Cowin & Corners, Designer Tiles, The Yard & Dispatch (quarry/
+sorting/loading), and Flooring Designs (26 photographs + 1 video of real installed floors
+in customers' own homes and buildings — inlay medallions, brass-strip inlay grids, octagon/
+diamond patterns, exhibition samples — not studio photography).
+Separately, stone-process.html has 3 real production-process videos (see "HOW THE STONE IS
+MADE" above), mandana-sandstone.html has 1 more, kota-polished-22x22.html and kota-grades.html
+each have their own finish/grade clips too — 8 real dedicated videos in total across the site
+(plus a short muted welcome clip that plays as a popup on every page, which is not counted as
+page content).
 
-## Maintenance
-- How to Clean & Care for Kota Stone Flooring (guide-kota-stone-care-and-maintenance.html): How to clean, seal, protect and eventually re-polish a Kota limestone floor, and which cleaners will permanently damage it.
+=== DELIVERY & FREIGHT ===
+Ships pan-India by road, and export by container via Gujarat ports. Main delivery markets
+from Ramganjmandi (approx. road distance): Delhi/NCR ~589 km, Jaipur ~334 km, Indore ~256 km,
+Bhopal ~281 km, plus long-haul service to Mumbai/Pune, Ahmedabad/Surat/Rajkot, Bengaluru/
+Mysuru, Hyderabad, Kolkata, and Lucknow/Kanpur/Varanasi. This is where they ship most often,
+not a limit — they deliver more widely on request. Ask for pin code + size/finish/quantity
+for a delivery-inclusive quote. Export packing (container loading, sea-freight packing) is
+handled separately from domestic dispatch — a different, more protective packing process.
 
-## Specification
-- Choosing the right stone finish for the job (guide-choosing-a-stone-finish.html): Natural, honed, polished, river, leather, cotton, rock-faced, grooved or bush-hammered — what each finish does, and which one belongs where.
+=== GUIDES / HELP CONTENT ON THE SITE ===
+- Kota Stone Care & Maintenance
+- Kota Stone vs Marble & Granite Tiles (cost/performance comparison)
+- Kota Stone vs Kadappa Stone
+- Kota Stone vs Tandur Stone
+- Laying Kota Stone Flooring (correct technique)
+- Choosing a Stone Finish
+- FAQ page covering common questions
+- Full Hindi-language version of the entire site (toggle via the हिंदी link)
 
-## Specify
-- Kota Stone Rates (kota-stone-rates.html): What the price depends on — from ₹5 per sq. ft.
+=== HOW TO GET A QUOTE ===
+- Fastest: WhatsApp +91 88901 20363 with size, finish, quantity and delivery city/pin code.
+- Or use the on-site calculator and tap "Send on WhatsApp".
+- Or the quote/enquiry form (quote.html) — asks for size, finish and quantity.
+- Samples can be requested through the same channels.
 
-## Company
-- Delivery across India (kota-stone-supplier-india.html): Cities we ship to, by road and rail.
-- Export (kota-stone-export.html): Container supply, sea-freight packing and documentation.
-- Kota stone supplier in Delhi (kota-stone-supplier-delhi.html): Supply and delivery to Delhi, Noida, Gurugram, Faridabad, Ghaziabad.
-- Kota stone supplier in Jaipur (kota-stone-supplier-jaipur.html): Supply and delivery to Jaipur, Ajmer, Tonk and eastern Rajasthan.
-- Kota stone supplier in Indore (kota-stone-supplier-indore.html): Supply and delivery to Indore, Ujjain, Dewas and western Madhya Pradesh.
-- Kota stone supplier in Bhopal (kota-stone-supplier-bhopal.html): Supply and delivery to Bhopal, Sehore, Vidisha and central Madhya Pradesh.
-- Kota stone supplier in Mumbai (kota-stone-supplier-mumbai.html): Supply and delivery to Mumbai, Thane, Navi Mumbai and Pune.
-- Kota stone supplier in Ahmedabad (kota-stone-supplier-ahmedabad.html): Supply and delivery to Ahmedabad, Gandhinagar, Vadodara, Surat and Rajkot.
-- Kota stone supplier in Bengaluru (kota-stone-supplier-bengaluru.html): Supply and delivery to Bengaluru, Mysuru and Karnataka.
-- Kota stone supplier in Hyderabad (kota-stone-supplier-hyderabad.html): Supply and delivery to Hyderabad, Secunderabad and Telangana.
-- Kota stone supplier in Kolkata (kota-stone-supplier-kolkata.html): Supply and delivery to Kolkata, Howrah and West Bengal.
-- Kota stone supplier in Lucknow (kota-stone-supplier-lucknow.html): Supply and delivery to Lucknow, Kanpur, Varanasi and Uttar Pradesh.
+=== CITY-SPECIFIC NOTES (from each city's dedicated supplier page) ===
+Each of these 25 cities has its own full page (kota-stone-supplier-<city>.html) with buying
+patterns, timing and specification advice. Key points per city, if a visitor asks about a
+specific city:
 
-## Specify
-- Kota Stone Flooring (kota-stone-flooring.html): Thickness, finish and specification for Kota stone floors.
-
-## Buying guide
-- Kota Stone Advantages & Disadvantages (kota-stone-advantages-disadvantages.html): An honest account of what Kota stone is good at, and where to specify something else.
-
-## Specify
-- Kota Stone Flooring Cost (kota-stone-flooring-cost.html): Material, freight, labour and polishing broken out — with a calculator.
-- Kota Stone Polishing (kota-stone-polishing.html): Mirror, diamond, honed and lapatro — factory polish against in-situ grinding.
-
-## Company
-- Kota Stone Wholesale (kota-stone-wholesale.html): Factory-direct trade supply — dealers, builders, projects and export.
-- Kota stone supplier in Udaipur (kota-stone-supplier-udaipur.html): Supply and delivery to Udaipur, Rajsamand, Chittorgarh and Mewar.
-- Kota stone supplier in Jodhpur (kota-stone-supplier-jodhpur.html): Supply and delivery to Jodhpur, Pali, Nagaur and western Rajasthan.
-- Kota stone supplier in Ajmer and Kishangarh (kota-stone-supplier-ajmer.html): Supply and delivery to Ajmer, Kishangarh, Beawar and central Rajasthan.
-- Kota stone supplier in Chandigarh (kota-stone-supplier-chandigarh.html): Supply and delivery to Chandigarh, Mohali, Panchkula, Ludhiana and Punjab.
-- Kota stone supplier in Pune (kota-stone-supplier-pune.html): Supply and delivery to Pune, Pimpri-Chinchwad, Nashik and western Maharashtra.
-- Kota stone supplier in Nagpur (kota-stone-supplier-nagpur.html): Supply and delivery to Nagpur, Wardha, Amravati and Vidarbha.
-- Kota stone supplier in Raipur (kota-stone-supplier-raipur.html): Supply and delivery to Raipur, Bhilai, Durg, Bilaspur and Chhattisgarh.
-- Kota stone supplier in Kanpur (kota-stone-supplier-kanpur.html): Supply and delivery to Kanpur, Lucknow, Unnao, Jhansi and central Uttar Pradesh.
-- Kota stone supplier in Patna (kota-stone-supplier-patna.html): Supply and delivery to Patna, Gaya, Muzaffarpur and Bihar.
-- Kota stone supplier in Dehradun (kota-stone-supplier-dehradun.html): Supply and delivery to Dehradun, Haridwar, Rishikesh, Roorkee and Uttarakhand.
-- Kota stone supplier in Agra (kota-stone-supplier-agra.html): Supply and delivery to Agra, Mathura, Gwalior, Firozabad and the Braj region.
-- Kota stone supplier in Varanasi (kota-stone-supplier-varanasi.html): Supply and delivery to Varanasi, Prayagraj, Mirzapur and eastern Uttar Pradesh.
-- Kota stone supplier in Surat (kota-stone-supplier-surat.html): Supply and delivery to Surat, Vadodara, Bharuch and south Gujarat.
-- Kota stone supplier in Chennai (kota-stone-supplier-chennai.html): Supply and delivery to Chennai, Coimbatore, Bengaluru and south India.
-
-## Home
-- Home — Kota Stone Manufacturer & Supplier (index.html): Kota stone and Mandana sandstone, direct from Ramganjmandi since 2008.
-
-## Contact
-- Find Us Online (connect.html): YouTube, Facebook, Google Business Profile and WhatsApp — every channel to reach us.
-
-## Tools
-- Enquiry List (enquiry.html): Save the stones you're interested in and send them all in one enquiry.
-- Install the App (install.html): Add this site to your home screen — works with no internet once installed.
-- Kota Stone Calculators (tools.html): Weight, area and cost calculators for Kota stone and Mandana sandstone.
-
-## Guides
-- Stone Process Videos (stone-process.html): How Kota stone is cut, polished and finished — on video.
-
-## Tools
-- Kota Stone Calculator (offline) (kota-stone-calculator.html): Full offline billing calculator — stone, freight, loading and GST, the whole bill.
-
-## Legal
-- Privacy Policy (privacy.html): How we handle your data.
-
-## Guides
-- Kota Stone vs Kadappa (Cuddapah) Stone (guide-kota-stone-vs-kadappa-stone.html): Kota limestone against Kadappa/Cuddapah black limestone on colour, strength, cost and where each one belongs.
-- Kota Stone vs Tandur Stone (guide-kota-stone-vs-tandur-stone.html): Kota limestone from Rajasthan against Tandur limestone from Telangana on colour, strength and cost.
+- Delhi/NCR: heaviest market for polished 22"×22" Kota (builder floors, stair treads, lift
+  lobbies); grey Kota 20–25mm calibrated is standard; Mandana red for elevation/temple.
+  Winter is peak buying season — book 6–8 weeks ahead of a November start.
+- Jaipur: buys fresh & medium Kota in volume for economy flooring; Mandana red for elevation.
+  Close enough that buyers can visit the yard and select stock in person before cutting.
+- Mumbai/Pune: specifies harder & thinner — calibrated 18–20mm mirror-polish for thin-bed
+  high-rise work; basalt (not porous Kota grades) for external/coastal salt-spray areas.
+  Pune: basalt is also quarried locally in Maharashtra — worth comparing delivered rate vs
+  local basalt.
+- Ahmedabad/Surat: Gujarat is the main export route (Mundra/Kandla/Hazira ports) — mention
+  at quotation stage if consignment is ultimately for export, packing differs. Mandana red
+  heavy for elevation/temple; Kandla Grey for external paving/township landscaping.
+- Bengaluru: commercial/campus flooring (corridors, basements) where stone beats vitrified
+  tile on life-cycle cost; freight-sensitive so thickness discipline matters — told honestly
+  where 20mm suffices vs not.
+- Hyderabad: price-sensitive, well-informed buyers who ask precise grade/calibration
+  questions. Always confirm grade (fresh/medium) in writing — this is where most disputes
+  start if not specified clearly.
+- Chennai: "granite country" — Kota sells on cost/look of honed limestone rather than
+  hardness. Coastal humidity/salt air — basalt or dense green Kota recommended over porous
+  grades for external work.
+- Kolkata: institutional/heritage-adjacent work, Mandana for restoration/temple projects.
+  Monsoon timing matters more here than any other market — plan delivery window around it.
+- Lucknow/Kanpur/Varanasi (UP belt): strong Mandana red market for elevation/temple/heritage
+  work; grey Kota for residential floors. UP is price-sensitive with many intermediaries —
+  grade misdescription is a known risk, always confirm grade. Varanasi specifically: temple/
+  ghat/hospitality work, thicker sections than average since much is permanently wet and
+  heavily walked externally.
+- Indore/Bhopal: Indore — strong honed/mirror-polish Mandana and brown Kota market, repeat
+  smaller lots preferred, low freight means thicker stone (30–40mm) is economical for
+  driveways. Bhopal — government/institutional tenders (schools, hospitals) specifying grey
+  Kota 25mm honed; tenders usually need test certificates — mention the tender spec so one
+  batch can be reserved.
+- Chandigarh: well-finished stone market — calibrated mirror/diamond-polish for lobbies;
+  Punjab buys heavy Mandana red for gurdwara/farmhouse work. Real freeze risk in some
+  pockets — ask before specifying external paving.
+- Dehradun: institutional/hospitality plus heavy temple/ghat work at Haridwar/Rishikesh.
+  Freeze-thaw is a genuine issue in hill districts — steer away from risk-prone specs at
+  altitude.
+- Agra: red sandstone country by tradition — Mandana red for elevation/temple/restoration
+  work; grey Kota for hotel/institutional floors. Tone-matching matters more than usual when
+  a job sits alongside existing red sandstone.
+- Ajmer/Kishangarh: Kishangarh is India's marble trading capital — dealers increasingly
+  stock Kota alongside marble; ask about standing orders if you're a Kishangarh dealer.
+  Ajmer itself: institutional/religious work (dargah, temple, school) in 25–32mm grey Kota.
+- Jodhpur: local sandstone is cheap there, so what moves is what local beds don't supply —
+  grey/green Kota for hard-wearing floors, black basalt for external paving, calibrated
+  polished Kota for commercial fit-outs.
+- Nagpur/Raipur (Vidarbha/Chhattisgarh): hard, plain fresh/medium grey Kota for institutional
+  and government work, generally 25mm, ground in place rather than factory polished. Nagpur
+  summers are severe with compressed site programmes — book ahead of monsoon-end starts.
+  Raipur: steel-belt industrial/institutional; freight is the single biggest cost line — a
+  full trailer load materially beats a part load on delivered rate.
+- Patna: grey Kota in volume for housing; Mandana red for temple/ghat/elevation. Long random
+  slabs (not cut-to-size squares) move well due to traditional laying practice. Order in dry
+  months — monsoon stretches lead times and stresses roads.
+- Udaipur: hospitality market first (hotels/havelis/resorts) — Mandana red for elevation/
+  courtyard, honed or in-situ-polished grey Kota for heritage-style circulation floors.
+  It's marble country too, so expect to be quoted against marble.
