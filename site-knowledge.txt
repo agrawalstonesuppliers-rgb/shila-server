@@ -86,6 +86,38 @@ if asked about a differently-named firm, clarify this is Agrawal Stone Suppliers
   applications (e.g. pharma/cleanroom).
 - Kota grades page explains Fresh/Medium/Waterproof in detail (see GRADES above).
 
+=== PUBLISHED KOTA STONE RATE GUIDE ===
+These are the current published ex-yard Ramganjmandi guide rates on kota-stone-rates.html.
+GST and freight are extra; the firm rate depends on grade, finish, quantity and stock.
+Always state the unit clearly: per sq ft is charged on pemaish, while a per-piece figure
+is the pemaish square-foot rate multiplied by the billable area of one piece.
+- 22" × 22" Kota square: Fresh ₹23/sq ft, Medium/Semi ₹20/sq ft, High Polish ₹29/sq ft.
+  On pemaish this is ₹92 / ₹80 / ₹116 per piece respectively because 22" × 22" bills as
+  4 sq ft even though its actual coverage is about 3.36 sq ft.
+- 23" × 23" Kota square: Fresh ₹25/sq ft, Medium/Semi ₹22/sq ft, High Polish ₹30/sq ft.
+  On pemaish this is ₹100 / ₹88 / ₹120 per piece respectively.
+- Waterproof rough reject, 2' × 2': ₹9/sq ft. This is rough material for roofs, sheds,
+  plinths and paths, not a polished grade.
+- Small Kota cut pieces sold per piece: 9" × 9" ₹5; 10" × 10" ₹8; 11" × 11" ₹10;
+  14" × 14" ₹21; 16" × 16" ₹27; 22" × 4" ₹10; 22" × 5" ₹10; 22" × 9" ₹15 fresh or
+  ₹13 semi; 22" × 10" ₹19; 22" × 11" ₹28 fresh or ₹24 semi; 22" × 14" ₹40 fresh or
+  ₹35 semi; 22" × 15" ₹41 fresh or ₹35 semi.
+- Other Kota cut sizes: 23" × 17" ₹24/sq ft or ₹30 high polish; 28" × 22" ₹24/sq ft.
+- Kota slabs, 2 ft wide: 2' × 1.5' ₹21/sq ft; 2.5' × 2' ₹26; 3' × 2' ₹29;
+  3.5' × 2' ₹32; 4' × 2' ₹32; 4.5' × 2' ₹36; 5' × 2' ₹40; 5.5' × 2' ₹40;
+  6' × 2' ₹44; 6.5' × 2' ₹53; 7' × 2' ₹53; 7.5' × 2' ₹58; 8' × 2' ₹58.
+- Kota slabs, 2.5 ft wide: 2.5' × 2.5' ₹37/sq ft; 3' × 2.5' ₹37; 3.5' × 2.5' ₹39;
+  4' × 2.5' ₹46; 4.5' × 2.5' ₹46; 5' × 2.5' ₹50; 5.5' × 2.5' ₹50;
+  6' × 2.5' ₹52; 6.5' × 2.5' ₹54; 7' × 2.5' ₹54.
+- Mandana cut squares: 22" × 22" ₹58/sq ft; 22" × 16" ₹53/sq ft; 2' × 2' ₹58/sq ft.
+  Mandana chirai: 22" × 16" ₹63/sq ft; 22" × 22" ₹69/sq ft.
+- Random slabs of Mandana, Raj Green and black basalt at 20 mm (±2 mm): from ₹84/sq ft.
+- Mirror polish tile, plain: ₹53/sq ft. Kota 22" × 22" at 50 mm: ₹48/sq ft;
+  35–40 mm: ₹37/sq ft.
+- Do not invent a rate for an unlisted size, finish or quantity. Ask for stone, size,
+  thickness, finish, quantity and delivery pin code, or direct the customer to the
+  published rate page and WhatsApp +91 88901 20363.
+
 === SIZES, THICKNESS & FINISHES ===
 - Thickness range across the ladder: 11 mm up to 102 mm (custom thickness also quotable).
 - Common standard sizes include 22"×22" (mirror-polished squares are a signature product),
@@ -95,7 +127,10 @@ if asked about a differently-named firm, clarify this is Agrawal Stone Suppliers
 
 === TOOLS ON THE SITE ===
 - Kota Stone Calculator: works out area, wastage, weight, truck loads and total cost from
-  size/rate/thickness/freight inputs; has a "Send on WhatsApp" button to turn the calculation
+  size/rate/thickness/freight inputs; the stone rate can be entered either per sq ft or per
+  piece, and the calculator carries that basis into the bill and WhatsApp enquiry. For pemaish,
+  22" × 22" Medium/Semi is ₹20/sq ft or ₹80 per piece, while 23" × 23" Medium/Semi is
+  ₹22/sq ft or ₹88 per piece. It has a "Send on WhatsApp" button to turn the calculation
   straight into an enquiry. Thickness options run the full 11–102 mm range, plus a "Custom
   thickness" option for anything outside the standard bands.
 - Flooring cost calculator: full landed-cost calculator (material + freight + labour +
@@ -109,8 +144,15 @@ if asked about a differently-named firm, clarify this is Agrawal Stone Suppliers
   arranged on request for tenders).
 
 === HOW THE STONE IS MADE (process videos) ===
-stone-process.html has 3 real videos filmed at our own Amarpura unit, showing cutting and
-finishing:
+stone-process.html has 4 real videos filmed at our own Amarpura unit, showing the complete
+Kota stone workflow from cutting through multiple finishing stages:
+- "Complete Kota stone process: cutters, abrasives and diamond tools" (0:59) — a full
+  process video showing how cutters, abrasives and diamond tools are combined to make and
+  finish Kota stone. Different stages can be mixed to create natural/sawn, honed, diamond
+  polish, table polish, high polish and other specified finishes. Water-fed cutting and
+  polishing help control heat, clear slurry and keep the face consistent.
+- "Calibration with the line polisher" (0:28) — a water-fed line-polisher stage that
+  brings stone to a controlled, even thickness before the selected final surface finish.
 - "Two edges, one true right angle" (0:58) — the edge-cutting line taking both adjoining
   edges of a piece square to each other under constant water spray, so corners lay to a
   tight joint on site.
@@ -222,3 +264,675 @@ specific city:
 - Udaipur: hospitality market first (hotels/havelis/resorts) — Mandana red for elevation/
   courtyard, honed or in-situ-polished grey Kota for heritage-style circulation floors.
   It's marble country too, so expect to be quoted against marble.
+
+=== CURRENT DEPLOYMENT CATALOG (generated 2026-10-05) ===
+Use this catalog to direct visitors to the correct live page. The site has 197 public HTML pages including English and Hindi pages.
+- about.html: Two generations in Ramganjmandi — A Star Group enterprise processing and supplying Kota limestone and Mandana sandstone at Amarpura, Ramganjmandi — in business since 2008.; sections: A father, two sons, and one yard in Ramganjmandi. | What we make. What we source. Checked the same way. | Six things we do not compromise on. | A father and his two sons. Direct lines. | Business details | ZED Bronze, Ministry of MSME. | Ramganjmandi, Kota | Tell us the size, finish and quantity.
+- agrawal-minerals.html: Agrawal Minerals — Agrawal Minerals in Ramganjmandi, Kota — A registered stone-processing concern supporting the group’s minerals and material workflow. Official registration details, role and enquiry route.; sections: Agrawal Minerals in the Star Group | Share the requirement with the group team. | Official details, carefully published. | Tell us the size, finish and quantity.
+- agrawal-stone-industries.html: Agrawal Stone Industries — Agrawal Stone Industries in Ramganjmandi, Kota — A separately registered manufacturing concern for cutting, shaping and finishing stone. Official registration details, role and enquiry route.; sections: Agrawal Stone Industries in the Star Group | Share the requirement with the group team. | Official details, carefully published. | Tell us the size, finish and quantity.
+- agrawal-stone-mart.html: Agrawal Stone Mart — Agrawal Stone Mart in Ramganjmandi, Kota — A registered trading and distribution concern for Kota stone and related stone requirements. Official registration details, role and enquiry route.; sections: Agrawal Stone Mart in the Star Group | Share the requirement with the group team. | Official details, carefully published. | Tell us the size, finish and quantity.
+- ai-stone-camera.html: AI Stone Camera — Real Stone &amp; Dimension Demo — Preview Kota, Mandana, cobble, basalt and Kandla Grey flooring on a room photo with module-size and area estimates from Agrawal Stone Suppliers.; sections: 1. Add a room photo | 2. Select stone and original module
+- applications.html: Applications — Where Kota limestone and Mandana sandstone are used: flooring, paving, cladding, staircases, landscaping and wet areas, with thickness guidance.; sections: Interior flooring | Exterior paving | Wall cladding &amp; facades | Staircases &amp; treads | Landscaping &amp; gardens | Driveways &amp; parking | Wet areas &amp; pool surrounds | Counters, sills &amp; copings
+- basalt.html: Black Basalt Stone — Volcanic rock from the Deccan Traps — dense, non-porous and close to three times the compressive strength of Kota. Where a floor or paving has to take genu; sections: About Black Basalt Stone | Typical applications | Properties | Cut on the diamond saw, then grooved. | What basalt looks like laid. | Black Basalt Stone formats and thickness | How Black Basalt Stone compares | See it before you commit.
+- cobbles-setts.html: Cobbles &amp; setts — Hand-cut stone cobbles and setts in Kota limestone, Mandana sandstone, Kandla Grey and black basalt. Standard modules, depths, coverage and sub-base guidance.; sections: Small units, big advantages. | Kota cobbles come in blue and brown. | Black basalt cobbles. | Available in four stones | Standard modules and coverage | Getting the build-up right. | Tell us the size, finish and quantity.
+- connect.html: Find us online — Connect with Agrawal Stone Suppliers on YouTube, Facebook, our Google Business Profile and WhatsApp, or reach the yard directly by phone and email.
+- contact.html: Contact us — Contact us at Industrial Area Amarpura, Ramganjmandi, Kota. Direct partner phone numbers, WhatsApp, email and directions to our yard.; sections: Speak to a partner. | Works &amp; yard
+- designer-tiles.html: Stone designer tiles — Patterned designer floor tiles stocked alongside our Kota and Mandana natural stone. Diamond, checkerboard, brick-bond and stone-look designs.; sections: A separate line, and we say so | Every board at the unit | Tile or stone? The honest answer. | Typical applications | Specification | Tell us the size, finish and quantity.
+- enquiry.html: Enquiry list — Build your enquiry — stone, size, thickness, finish and quantity — then send the list to us on WhatsApp in one tap. It stays on your phone until you send it.; sections: Tell us the size, finish and quantity.
+- faq.html: Frequently asked questions — Answers on Kota stone minimum order, pricing, samples, thickness, slip resistance, cut-to-size work, payment terms and delivery across India.; sections: Tell us the size, finish and quantity.
+- festival-calendar.html: Festival calendar — Indian festival calendar with automatic festival wishes from Agrawal Stone Suppliers, Ramganjmandi Kota stone yard.
+- finishes.html: Finishes &amp; surfaces — Every finish we produce — natural, sawn, honed, mirror polish, leather, cotton, rock-faced, grooved, bush-hammered, satin, lapatro and tumbled.; sections: Which finish, where | Calibrated or uncalibrated? | Common questions | Tell us the size, finish and quantity.
+- gallery-basalt.html: Black basalt photographs — Photographs of black basalt from our yard at Ramganjmandi — rock-faced strips, honed slabs, cladding and cobble stock, shot as the stone actually is.; sections: Basalt flooring design ideas | Tell us the size, finish and quantity.
+- gallery-cobbles.html: Cobble and sett photographs — Photographs of hand-cut cobbles and setts across Kota, Mandana, Kandla Grey and black basalt — loose stock, laid runs and loaded dispatches from our yard.; sections: Cobble stone flooring design ideas | Tell us the size, finish and quantity.
+- gallery-cowin.html: Cowin photographs — Photographs of Kota and Mandana cowin (cove skirting) — full runs, ready-made internal and external corners, gauge checks and loaded dispatch from our yard.; sections: Tell us the size, finish and quantity.
+- gallery-designer-tiles.html: Designer tile photographs — Photographs of our designer and inlay tile line — diamond, checkerboard, brick-bond and marble-effect patterns on the display racks at Ramganjmandi.; sections: Tell us the size, finish and quantity.
+- gallery-flooring-designs.html: Flooring design photographs — Real Kota stone floors we have supplied and laid — multi-tone squares, mirror polish with brass-strip inlay, and a corridor with inlay medallions. Photographed in real homes, not a studio.; sections: A corridor with medallions set into the stone. | Tell us the size, finish and quantity.
+- gallery-kandla-grey.html: Kandla Grey photographs — Photographs of Kandla Grey sandstone at our yard — natural riven and sawn faces, stacked slabs and mouldings, shot dry and unsealed so the tone is honest.; sections: Kandla Grey flooring design ideas | Tell us the size, finish and quantity.
+- gallery-kota-stone.html: Kota stone photographs — Blue-grey, green and brown Kota - every finish we run, plus the cut sizes and the stock as it stands in the yard at Amarpura.; sections: Kota stone flooring design ideas | Tell us the size, finish and quantity.
+- gallery-mandana.html: Mandana sandstone photographs — Photographs of Red Mandana sandstone from our yard at Ramganjmandi — natural, honed, mirror and diamond polish, random slabs and 22″ × 22″ cut squares.; sections: Mandana flooring design ideas | Tell us the size, finish and quantity.
+- gallery-raj-green.html: Raj Green photographs — Photographs of Raj Green sandstone at our yard — the pale sawn face and the multi-tonal riven face, in stacked slabs and paving stock.; sections: Tell us the size, finish and quantity.
+- gallery-yard.html: The yard, quarry and dispatch — Photographs of our unit at Amarpura, Ramganjmandi — quarry blocks, the cutting and polishing lines, sorted stock and trucks being loaded for dispatch.; sections: Tell us the size, finish and quantity.
+- gallery.html: Gallery — Photograph galleries by stone — Kota, Mandana, Kandla Grey, Raj Green, basalt, cobbles, cowin, designer tiles and our yard at Amarpura.; sections: Tell us the size, finish and quantity.
+- guide-choosing-a-stone-finish.html: Choosing the right stone finish for the job — Natural, honed, polished, river, leather, cotton, rock-faced, grooved or bush-hammered — what each finish does, and which one belongs where.; sections: Finish changes three things | The finishes | Mixing finishes | Related guides | Tell us the size, finish and quantity.
+- guide-kota-stone-care-and-maintenance.html: How to Clean &amp; Care for Kota Stone Flooring — How to clean, seal, protect and eventually re-polish a Kota limestone floor, and which cleaners will permanently damage it.; sections: Daily and weekly | What never to use | Sealing | Stains | Restoration | Exterior surfaces | Related guides | Tell us the size, finish and quantity.
+- guide-kota-stone-thickness-size-specification.html: How to specify Kota stone: thickness, size and calibration — A specifier; sections: Start with the load | Slab size and the joint question | Calibrated or uncalibrated? | Edges and tolerances | Quantities and wastage | Related guides | Tell us the size, finish and quantity.
+- guide-kota-stone-vs-kadappa-stone.html: Kota Stone vs Kadappa (Cuddapah) Stone — Kota limestone against Kadappa black limestone on colour, strength, cost and where each belongs — a straight comparison, not a sales pitch.; sections: The short version | Colour and appearance | Strength and water absorption | Cost | Where each one belongs | Related guides | Tell us the size, finish and quantity.
+- guide-kota-stone-vs-marble-granite-tiles.html: Kota Stone vs Marble, Granite &amp; Vitrified Tiles — An honest comparison of Kota limestone against marble, granite and vitrified tile on cost, durability, maintenance and where each one actually belongs.; sections: The short version | Cost | Durability | Maintenance | Appearance | Where each one belongs | Related guides | Tell us the size, finish and quantity.
+- guide-kota-stone-vs-tandur-stone.html: Kota Stone vs Tandur Stone — Kota limestone from Rajasthan against Tandur limestone from Telangana on colour, strength and cost — a straight comparison for buyers choosing between them.; sections: The short version | Origin | Colour and finish | Where each one belongs | Related guides | Tell us the size, finish and quantity.
+- guide-laying-kota-stone-flooring.html: Laying Kota stone flooring: a site guide — Step-by-step guidance on substrate preparation, mortar beds, laying, jointing, grinding and first polish for Kota stone floors.; sections: 1. Before the stone arrives | 2. Substrate | 3. The mortar bed | 4. Joints | 5. Curing | 6. Grinding and first polish | 7. Handover | Related guides
+- hi/about.html: रामगंजमंडी में दो पीढ़ियाँ — स्टार ग्रुप की इकाई, जो रामगंजमंडी, कोटा में 2008 से कोटा लाइमस्टोन और मंदाना सैंडस्टोन की कटाई, फ़िनिशिंग और सप्लाई करती है।; sections: एक पिता, दो बेटे, और रामगंजमंडी में एक यार्ड। | जो हम बनाते हैं, जो हम ख़रीदते हैं — जाँच दोनों की एक जैसी। | छह बातें जिन पर हम समझौता नहीं करते। | एक पिता और उनके दो बेटे। सीधी बात। | कंपनी की जानकारी | ZED Bronze, सूक्ष्म लघु एवं मध्यम उद्यम मंत्रालय। | रामगंजमंडी, कोटा | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/agrawal-minerals.html: Agrawal Minerals — Agrawal Minerals रामगंजमंडी, कोटा — A registered stone-processing concern supporting the group’s minerals and material workflow. आधिकारिक पंजीकरण विवरण और संपर्क मार्ग।; sections: Star Group में Agrawal Minerals | अपनी जरूरत ग्रुप टीम को भेजें। | आधिकारिक विवरण सावधानी से प्रकाशित। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/agrawal-stone-industries.html: Agrawal Stone Industries — Agrawal Stone Industries रामगंजमंडी, कोटा — A separately registered manufacturing concern for cutting, shaping and finishing stone. आधिकारिक पंजीकरण विवरण और संपर्क मार्ग।; sections: Star Group में Agrawal Stone Industries | अपनी जरूरत ग्रुप टीम को भेजें। | आधिकारिक विवरण सावधानी से प्रकाशित। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/agrawal-stone-mart.html: Agrawal Stone Mart — Agrawal Stone Mart रामगंजमंडी, कोटा — A registered trading and distribution concern for Kota stone and related stone requirements. आधिकारिक पंजीकरण विवरण और संपर्क मार्ग।; sections: Star Group में Agrawal Stone Mart | अपनी जरूरत ग्रुप टीम को भेजें। | आधिकारिक विवरण सावधानी से प्रकाशित। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/applications.html: उपयोग — कोटा लाइमस्टोन और मंदाना सैंडस्टोन कहाँ लगते हैं — फ़र्श, पेविंग, क्लैडिंग, सीढ़ियाँ, ड्राइववे और लैंडस्केपिंग, हर काम के लिए सही स्पेसिफ़िकेशन के साथ।; sections: अंदरूनी फ़र्श | बाहर की पेविंग | दीवार की क्लैडिंग और एलिवेशन | सीढ़ियाँ और ट्रेड | लैंडस्केपिंग और बग़ीचे | ड्राइववे और पार्किंग | गीली जगहें और पूल के चारों तरफ़ | काउंटर, सिल और कोपिंग
+- hi/basalt.html: ब्लैक बेसाल्ट स्टोन — डेक्कन ट्रैप का ज्वालामुखीय पत्थर — सघन, लगभग बिना छिद्र और कोटा से कहीं ज़्यादा कठोर। होंड स्लैब, रॉक-फ़ेस्ड स्ट्रिप, कॉबल्स और क्लैडिंग।; sections: ब्लैक बेसाल्ट स्टोन के बारे में | आम उपयोग | गुण | डायमंड आरे पर कटा, फिर ग्रूव किया हुआ। | बिछा हुआ बेसाल्ट कैसा दिखता है। | ब्लैक बेसाल्ट स्टोन की साइज़ और मोटाई | ब्लैक बेसाल्ट स्टोन की तुलना | तय करने से पहले देख लीजिए।
+- hi/cobbles-setts.html: कोबल्स और सेट्स — कोटा लाइमस्टोन, मंदाना सैंडस्टोन, कंडला ग्रे और ब्लैक बेसाल्ट में हाथ से कटे कॉबल्स और सेट्स — ड्राइववे, रास्तों और लैंडस्केपिंग के लिए।; sections: छोटे टुकड़े, बड़े फ़ायदे। | कोटा कोबल्स ब्लू और ब्राउन में आते हैं। | ब्लैक बेसाल्ट कोबल्स। | चार पत्थरों में उपलब्ध | स्टैंडर्ड माप और कवरेज | नीचे की तह सही बनाना। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/connect.html: ऑनलाइन देखें — फ़ेसबुक, गूगल बिज़नेस प्रोफ़ाइल, इंस्टाग्राम और व्हाट्सएप पर अग्रवाल स्टोन सप्लायर्स से जुड़िए — कैटलॉग, फ़ोटो और सीधे रेट की पूछताछ।
+- hi/contact.html: संपर्क करें — औद्योगिक क्षेत्र अमरपुरा, रामगंजमंडी, कोटा में हमसे संपर्क कीजिए। पार्टनर के सीधे नंबर, व्हाट्सएप, ईमेल और यार्ड आने का रास्ता।; sections: साझेदार से सीधे बात कीजिए। | फ़ैक्ट्री और यार्ड
+- hi/designer-tiles.html: स्टोन डिज़ाइनर टाइल्स — हमारे कोटा और मंदाना प्राकृतिक पत्थर के साथ रखी जाने वाली पैटर्न वाली डिज़ाइनर फ़र्श टाइल — डायमंड, चेकरबोर्ड, ब्रिक-बॉन्ड और स्टोन इनले।; sections: यह अलग लाइन है, और हम यह साफ़ कहते हैं | यूनिट पर हर बोर्ड मौजूद | टाइल या पत्थर? खरी बात। | आम उपयोग | स्पेसिफ़िकेशन | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/enquiry.html: पूछताछ सूची — अपनी पूछताछ सूची बनाइए — पत्थर, साइज़, मोटाई, फ़िनिश और मात्रा — और पूरी सूची एक ही टैप में व्हाट्सएप पर हमें भेज दीजिए। सूची आपके फ़ोन में ही सुरक्षित रहती है।; sections: साइज़, फ़िनिश और मात्रा बताइए।
+- hi/faq.html: अक्सर पूछे जाने वाले सवाल — कोटा स्टोन के न्यूनतम ऑर्डर, रेट, नमूने, मोटाई, फिसलन, पैकिंग, भाड़े और भुगतान से जुड़े सवालों के सीधे जवाब।; sections: साइज़, फ़िनिश और मात्रा बताइए।
+- hi/festival-calendar.html: त्योहार कैलेंडर — अग्रवाल स्टोन सप्लायर्स, रामगंजमंडी की ओर से भारतीय त्योहार कैलेंडर और त्योहार के दिन अपने-आप शुभकामना संदेश।
+- hi/finishes.html: फ़िनिश और सरफ़ेस — हमारी हर फ़िनिश — नैचुरल, सॉन, होंड, टेबल पॉलिश, रिवर, मिरर पॉलिश, डायमंड पॉलिश, लेदर, लैपाट्रो, कॉटन, ग्रूव्ड और रॉक-फ़ेस्ड।; sections: कौन सी फ़िनिश, कहाँ | कैलिब्रेटेड या नॉन-कैलिब्रेटेड? | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-basalt.html: ब्लैक बेसाल्ट की फ़ोटो — रामगंजमंडी स्थित हमारे यार्ड से ब्लैक बेसाल्ट की तस्वीरें — रॉक-फ़ेस्ड स्ट्रिप, होंड स्लैब, क्लैडिंग और कॉबल स्टॉक, जैसा पत्थर सचमुच है।; sections: बेसाल्ट फ्लोरिंग डिज़ाइन आइडिया | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-cobbles.html: कोबल्स और सेट्स की फ़ोटो — कोटा, बेसाल्ट और बाक़ी रेंज में हाथ से कटे कोबल्स और सेट्स — खुले हुए, गीले में लगे हुए, और लदे हुए।; sections: कोबल स्टोन फ्लोरिंग डिज़ाइन आइडिया | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-cowin.html: कॉविन की फ़ोटो — कोटा और मंदाना कोविन (कोव स्कर्टिंग) की तस्वीरें — पूरे रन, तैयार भीतरी और बाहरी कोने, गेज जाँच और यार्ड से लोड होती खेप।; sections: साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-designer-tiles.html: डिज़ाइनर टाइल की फ़ोटो — हमारी डिज़ाइनर और इनले टाइल लाइन की तस्वीरें — डायमंड, चेकरबोर्ड, ब्रिक-बॉन्ड, मार्बल-इफ़ेक्ट और स्टोन इनले पैटर्न, रामगंजमंडी की डिस्प्ले रैक पर।; sections: साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-flooring-designs.html: फ़्लोरिंग डिज़ाइन की फ़ोटो — हमने जो असली फ़र्श लगाए हैं उनकी तस्वीरें — मल्टी-टोन कोटा स्क्वेयर, ब्रास-स्ट्रिप इनले के साथ मिरर पॉलिश, और मेडेलियन इनले वाला गलियारा। असली घरों में खींची गई, स्टूडियो में नहीं।; sections: मेडेलियन जड़ा हुआ एक गलियारा। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-kandla-grey.html: कंडला ग्रे की फ़ोटो — राजस्थानी ग्रे सैंडस्टोन, natural और sawn फ़िनिश में — जैसा यह यार्ड में सूखा और बिना सील दिखता है।; sections: कंडला ग्रे फ्लोरिंग डिज़ाइन आइडिया | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-kota-stone.html: कोटा स्टोन की फ़ोटो — ब्लू, ग्रीन और ब्राउन कोटा स्टोन की हर फ़िनिश में तस्वीरें — रामगंजमंडी स्थित हमारे अपने यार्ड और पॉलिशिंग लाइन से।; sections: कोटा स्टोन फ्लोरिंग डिज़ाइन आइडिया | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-mandana.html: मंदाना सैंडस्टोन की फ़ोटो — रामगंजमंडी स्थित हमारे यार्ड से रेड मंदाना सैंडस्टोन की तस्वीरें — नैचुरल, होंड, मिरर और डायमंड पॉलिश, रैंडम स्लैब तथा 22″ × 22″ कट चौकोर।; sections: मंडाना फ्लोरिंग डिज़ाइन आइडिया | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-raj-green.html: राज ग्रीन की फ़ोटो — राज ग्रीन — सॉन, सैंडब्लास्टेड और लगा हुआ। इस पत्थर का वह हल्का रूप जो ज़्यादातर लोग सिर्फ़ चिरा हुआ और गीला ही देखते हैं।; sections: साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery-yard.html: यार्ड, खदान और डिस्पैच — अमरपुरा की यूनिट — खदान के ब्लॉक, छँटा हुआ स्टॉक, और ऑर्डर जाँचे जाते, खड़े लगाए जाते और लदते हुए।; sections: साइज़, फ़िनिश और मात्रा बताइए।
+- hi/gallery.html: गैलरी — पत्थर के हिसाब से फ़ोटो गैलरी — कोटा, मंदाना, कंडला ग्रे, राज ग्रीन, बेसाल्ट, कॉबल्स, कोविन, डिज़ाइनर टाइल और यार्ड।; sections: साइज़, फ़िनिश और मात्रा बताइए।
+- hi/guide-choosing-a-stone-finish.html: काम के हिसाब से सही फ़िनिश चुनना — नैचुरल, होंड, पॉलिश्ड, रिवर, लेदर, कॉटन, रॉक-फ़ेस्ड, ग्रूव्ड या बुश-हैमर्ड — हर फ़िनिश क्या करती है, और कौन-सी कहाँ लगनी चाहिए।; sections: फ़िनिश तीन चीज़ें बदलती है | फ़िनिश | फ़िनिश मिलाना | मिलती-जुलती गाइड | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/guide-kota-stone-care-and-maintenance.html: कोटा स्टोन के फ़र्श की सफ़ाई और देखभाल कैसे करें — कोटा लाइमस्टोन के फ़र्श की सफ़ाई, सीलिंग, सुरक्षा और दोबारा पॉलिश कैसे कराएँ — और कौन-से क्लीनर उसे स्थायी नुक़सान पहुँचाते हैं।; sections: रोज़ और हफ़्ते में | क्या कभी मत लगाइए | सीलिंग | दाग़ | मरम्मत | बाहर की सतहें | मिलती-जुलती गाइड | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/guide-kota-stone-thickness-size-specification.html: कोटा स्टोन कैसे तय करें: मोटाई, साइज़ और कैलिब्रेशन — काम के हिसाब से कोटा स्टोन की मोटाई और स्लैब साइज़ चुनने की स्पेसिफ़ायर गाइड, और कब कैलिब्रेटेड माल का ज़्यादा दाम वसूल हो जाता है।; sections: भार से शुरू कीजिए | स्लैब का साइज़ और जोड़ का सवाल | कैलिब्रेटेड या नॉन-कैलिब्रेटेड? | किनारे और टॉलरेंस | मात्रा और टूट-फूट | मिलती-जुलती गाइड | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/guide-kota-stone-vs-kadappa-stone.html: कोटा स्टोन बनाम कडप्पा (कुड्डापा) स्टोन — कोटा लाइमस्टोन और कडप्पा/कुड्डापा काले लाइमस्टोन की सीधी तुलना — रंग, मज़बूती, दाम और कहाँ कौन सा पत्थर सही बैठता है, बिना किसी बिक्री की बात के।; sections: छोटी बात | रंग और दिखावट | मज़बूती और पानी सोखना | दाम | किसकी जगह कहाँ है | मिलती-जुलती गाइड | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/guide-kota-stone-vs-marble-granite-tiles.html: कोटा स्टोन बनाम मार्बल, ग्रेनाइट और वि​ट्रिफ़ाइड टाइल — कोटा लाइमस्टोन की मार्बल, ग्रेनाइट और विट्रिफ़ाइड टाइल से ईमानदार तुलना — लागत, टिकाऊपन, रख-रखाव और हर एक की सही जगह।; sections: छोटी बात | लागत | टिकाऊपन | रख-रखाव | दिखावट | किसकी जगह कहाँ है | मिलती-जुलती गाइड | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/guide-kota-stone-vs-tandur-stone.html: कोटा स्टोन बनाम टांडूर स्टोन — राजस्थान के कोटा लाइमस्टोन और तेलंगाना के टांडूर लाइमस्टोन की सीधी तुलना — रंग, मज़बूती, फ़िनिश और दाम, दोनों में से एक चुनने वालों के लिए।; sections: छोटी बात | उत्पत्ति | रंग और फ़िनिश | किसकी जगह कहाँ है | मिलती-जुलती गाइड | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/guide-laying-kota-stone-flooring.html: कोटा स्टोन का फ़र्श लगाना: साइट गाइड — कोटा स्टोन के फ़र्श के लिए बेस तैयारी, मसाले का बेड, लगाई, जोड़, घिसाई और पहली पॉलिश — कदम-दर-कदम साइट गाइड।; sections: 1. पत्थर आने से पहले | 2. नीचे का आधार | 3. मसाले का बेड | 4. जोड़ | 5. क्योरिंग | 6. घिसाई और पहली पॉलिश | 7. हैंडओवर | मिलती-जुलती गाइड
+- hi/index.html: कोटा स्टोन और मांडाना सैंडस्टोन, कटा और फ़िनिश किया हुआ आपके नाप के अनुसार। — 2008 से कोटा स्टोन निर्माता और सप्लायर — ब्लू, ग्रे, ग्रीन, ब्राउन लाइमस्टोन और रेड मंदाना सैंडस्टोन, रामगंजमंडी की अपनी यूनिट से। रेट ₹9/वर्ग फुट से।; sections: आठ कैटेगरी। जो चाहिए उससे शुरू करें। | कोटा स्टोन का रेट ₹9 प्रति वर्ग फुट से शुरू। | अपनी यूनिट, और पूरे बेल्ट में भरोसे का नेटवर्क। | बारह फ़िनिश। सही फ़िनिश ही तय करती है कि फ़र्श सुरक्षित रहेगा या नहीं। | हमारा पत्थर कहाँ लगता है। | पहले सीधी बात, फिर पत्थर। | इस पेज का हर पत्थर हमारा अपना है। | पूरे भारत में डिलीवरी, और रामगंजमंडी से एक्सपोर्ट।
+- hi/install.html: कैटलॉग हमेशा जेब में — कोटा स्टोन कैटलॉग को अपने फ़ोन की होम स्क्रीन पर लगाइए। बिना नेटवर्क भी चलता है और ऐप की तरह खुलता है।; sections: तीन टैप। | तीन टैप। | इंस्टॉल करने का फ़ायदा। | पूरा कैटलॉग अपने फ़ोन में सहेज लीजिए | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kandla-grey.html: कंडला ग्रे स्टोन — वह ग्रे सैंडस्टोन जिसने भारतीय पेविंग को दुनिया भर में पहचान दी। ठंडा, एक-सा रंग और पाला-सह — नैचुरल और सॉन फ़िनिश में।; sections: कंडला ग्रे स्टोन के बारे में | आम उपयोग | गुण | कंडला ग्रे स्टोन की साइज़ और मोटाई | कंडला ग्रे स्टोन की तुलना | तय करने से पहले देख लीजिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-brown.html: ब्राउन / हनी कोटा स्टोन — ब्राउन कोटा हल्के हनी से गहरे टैन तक जाता है, बीच-बीच में गेरुआ नसों के साथ। बाहरी काम, होंड और मिरर पॉलिश, 22″ × 22″ में।; sections: ब्राउन / हनी कोटा स्टोन के बारे में | आम उपयोग | गुण | साइज़ और मोटाई | ब्राउन कोटा, मिरर पॉलिश, 22″ × 22″। | होन्ड ब्राउन, 22″ × 22″। | 22″ × 16″, मिरर पॉलिश। | मिलते-जुलते स्टोन
+- hi/kota-cobbles.html: कोटा स्टोन कोबल्स — ब्लू और ब्राउन कोटा में हाथ से कटे कॉबल्स और सेट्स — चौकोर, आयताकार और रैंडम, ड्राइववे तथा रास्तों के लिए।; sections: कोटा स्टोन कोबल्स के बारे में | आम उपयोग | गुण | साइज़ और मोटाई | मिलते-जुलते स्टोन | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-grades.html: फ़्रेश, मीडियम और वॉटरप्रूफ़ क्वालिटी — कोटा स्टोन की क्वालिटी ग्रेड — फ़्रेश, मीडियम और वॉटरप्रूफ़ — रंग, किनारे, नसें, बर्बादी और रेट पर तुलना। हर ग्रेड किसी भी फ़िनिश में मिलता है: रफ़, डायमंड-कट, होन्ड, मिरर या टेबल पॉलिश।; sections: फ़्रेश ग्रेड कोटा स्टोन | मीडियम ग्रेड कोटा स्टोन | वॉटरप्रूफ़ कोटा स्टोन (रफ़ रिजेक्ट) | डायमंड कट, 22″ और 23″। | फ़र्क़ असल में किस चीज़ में है | हर ग्रेड में उपलब्ध | किसी भी सप्लायर से पूछने लायक़ चार सवाल। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-green.html: ग्रीन कोटा स्टोन — ग्रीन कोटा इस भंडार का सबसे सघन और महीन दाने वाला हिस्सा है। पॉलिश होने पर गहरा हरा — 46″ × 22″ कैलिब्रेटेड स्टॉक में।; sections: ग्रीन कोटा स्टोन के बारे में | आम उपयोग | गुण | साइज़ और मोटाई | कैलिब्रेटेड ग्रीन कोटा, 46″ × 22″। | ग्रीन को हम किनारे के बल क्यों लगाते हैं। | मिलते-जुलते स्टोन | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-grey.html: ग्रे / ब्लू कोटा स्टोन — ग्रे कोटा — व्यापार में इसे ब्लू कोटा कहते हैं, पत्थर वही है। ठंडा नीला-धूसर लाइमस्टोन, नैचुरल से मिरर पॉलिश तक हर फ़िनिश में।; sections: ग्रे / ब्लू कोटा स्टोन के बारे में | आम उपयोग | गुण | साइज़ और मोटाई | चार सतहें, एक ही पत्थर। | रॉक फ़ेस्ड, हाथ की छेनी से घड़ा हुआ। | बेड-रन स्लैब, 8.5 फुट तक। | मिलते-जुलते स्टोन
+- hi/kota-polished-22x22.html: कोटा स्टोन हाई पॉलिश, 22″ × 22″ — मिरर पॉलिश, मशीन-कैलिब्रेटेड ग्रे कोटा स्टोन, 22 × 22 इंच के चौकोर में — पतले बेड पर एडहेसिव से लगने वाले फ़र्श के लिए।; sections: पॉलिश चेहरे पर होती है। कैलिब्रेशन पीठ पर। | ज़्यादा दाम देकर असल में क्या मिलता है। | हाई पॉलिश बिना कैलिब्रेशन। | पॉलिश को हिलते हुए देखिए। | आम उपयोग | स्पेसिफ़िकेशन | कैलिब्रेटेड साइज़ | पॉलिश किया एक सैंपल किसी भी स्क्रीन से ज़्यादा बताता है।
+- hi/kota-stone-advantages-disadvantages.html: कोटा स्टोन: फ़ायदे और नुक़सान — कोटा स्टोन के फ़ायदे और नुक़सान, उसी सप्लायर से जो इसे काटता है — टिकाऊपन और लागत के सामने तेज़ाब से दाग़, रंग का फ़र्क़ और फिसलन।; sections: फ़ायदे | नुक़सान | तो लगवाएँ या नहीं? | कोटा स्टोन: फ़ायदे और नुक़सान | आगे क्या देखें | आज का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-architects-contractors.html: आर्किटेक्ट और कॉन्ट्रैक्टर के लिए स्टोन सप्लाई — आर्किटेक्ट, कॉन्ट्रैक्टर, बिल्डर और संस्थागत प्रोजेक्ट के लिए कोटा स्टोन सप्लाई।; sections: What we can help specify | Technical information | Send a project enquiry | अपने ऑर्डर की जानकारी भेजें | सामान्य सवाल | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-calculator.html: STAR GROUP — बिना इंटरनेट चलने वाला कोटा स्टोन कैलकुलेटर — पेमाइश, एरिया, वज़न, भाड़ा, लोडिंग और GST।; sections: ' + esc(T.title) + '
+- hi/kota-stone-export.html: कोटा स्टोन और सैंडस्टोन एक्सपोर्ट — रामगंजमंडी, कोटा से कंटेनर द्वारा कोटा स्टोन और मंदाना सैंडस्टोन का निर्यात — समुद्र-योग्य क्रेटिंग, कंटेनर स्टफ़िंग और पूरे दस्तावेज़। IEC AVWPG0336Q।; sections: समुद्र की पैकिंग अलग काम है | कंटेनर में सचमुच कितना आता है | हम क्या एक्सपोर्ट करते हैं | एक्सपोर्ट सप्लाई | बंदरगाह और मात्रा बताइए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-flooring-cost.html: कोटा स्टोन फ़्लोरिंग की लागत — कोटा फ़र्श की असली लागत — माल, भाड़ा, लगाई की मज़दूरी, पॉलिश और वेस्टेज, साथ में कैलकुलेटर जिसमें आप अपने कोटेशन के रेट भरते हैं।; sections: आप असल में किस-किस चीज़ का पैसा दे रहे हैं | फ़ैक्टरी पॉलिश या मौक़े पर पॉलिश? | लागत कैलकुलेटर | एक अच्छे कोटेशन में क्या होना चाहिए | कोटा स्टोन फ़्लोरिंग की लागत | आगे क्या देखें | आज का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-flooring.html: कोटा स्टोन फ़्लोरिंग — कोटा स्टोन फ़्लोरिंग की पूरी जानकारी उन्हीं से जो इसे काटते हैं — घर, ऑफ़िस या ड्राइववे के लिए कौन-सी मोटाई, कहाँ कौन-सी फ़िनिश, और रेट किससे बदलता है।; sections: यह लाइमस्टोन है, मार्बल नहीं। | काम के हिसाब से मोटाई | फ़र्श पर कौन-सी फ़िनिश | कोटा स्टोन कहाँ ग़लत चुनाव है | कोटा स्टोन फ़्लोरिंग | आगे क्या देखें | आज का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-installation-cost.html: कोटा स्टोन इंस्टॉलेशन कॉस्ट — कोटा स्टोन फ्लोरिंग में पत्थर, भाड़ा, बेडिंग, मजदूरी, वेस्टेज और पॉलिशिंग का खर्च समझें।; sections: Cost components | What changes the labour cost | Use the calculator | अपने ऑर्डर की जानकारी भेजें | सामान्य सवाल | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-polishing.html: कोटा स्टोन पॉलिशिंग — कोटा स्टोन की पॉलिश कैसे होती है — फ़ैक्टरी की मिरर और डायमंड पॉलिश बनाम मौक़े पर घिसाई, कैलिब्रेशन क्या करता है, और किस फ़र्श पर कौन-सी फ़िनिश।; sections: पॉलिश के हर स्तर का मतलब | फ़ैक्टरी पॉलिश बनाम मौक़े की पॉलिश | किस फ़र्श पर कौन-सी पॉलिश | कोटा स्टोन पॉलिशिंग | आगे क्या देखें | आज का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-price-per-piece.html: कोटा स्टोन प्रति पीस रेट — 22×22 और 23×23 कोटा स्टोन टाइलों के प्रति पीस और प्रति वर्ग फुट संदर्भ रेट।; sections: Published per-piece examples | How the conversion works | Ask for an exact rate | अपने ऑर्डर की जानकारी भेजें | सामान्य सवाल | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-rates.html: कोटा स्टोन रेट — कोटा स्टोन रेट सूची — 22×22, 23×23 चौकोर, कटाई साइज़, 8 फुट तक स्लैब, मंदाना और चिराई; प्रति वर्ग फुट व प्रति पीस। ₹9/वर्ग फुट से। रेट फ़ोन पर पूछिए।; sections: हर पत्थर, ₹9 प्रति वर्ग फ़ुट से | रेट सूची | रेट किन बातों पर बदलता है | रेट कैसे पूछें | रेट से जुड़े सवाल | आज का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-samples-bulk-orders.html: सैंपल, बल्क ऑर्डर और बैच मैचिंग — रामगंजमंडी से कोटा स्टोन सैंपल, बल्क ऑर्डर, बैच मैचिंग और फैक्ट्री-डायरेक्ट सप्लाई।; sections: For a sample request | For a bulk order | Factory-direct process | अपने ऑर्डर की जानकारी भेजें | सामान्य सवाल | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-slabs-pavers.html: कोटा स्टोन स्लैब, पेवर और आउटडोर फ़ॉर्मेट — फ्लोरिंग, ड्राइववे, आंगन और बाहरी उपयोग के लिए कोटा स्लैब, पेवर और कोबल।; sections: Formats supplied | Outdoor specification | Related sandstone options | अपने ऑर्डर की जानकारी भेजें | सामान्य सवाल | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-agra.html: आगरा में कोटा स्टोन सप्लायर — आगरा, मथुरा, ग्वालियर, फ़िरोज़ाबाद और ब्रज क्षेत्र तक कोटा स्टोन, मंदाना सैंडस्टोन डिलीवरी, रामगंजमंडी, कोटा की अपनी यूनिट से सीधे। रेट पूछिए।; sections: आगरा तक पत्थर कैसे जाता है | आगरा के लिए उपयुक्त स्पेसिफ़िकेशन | आगरा और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | आगरा तक हम क्या भेज सकते हैं | आगरा में सप्लाई | आगरा तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-ahmedabad.html: अहमदाबाद में कोटा स्टोन सप्लायर — अहमदाबाद, गांधीनगर, वडोदरा और सूरत तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर अहमदाबाद तक कैसे पहुँचता है | अहमदाबाद के लिए उपयुक्त स्पेसिफ़िकेशन | अहमदाबाद और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | अहमदाबाद भेजी जा सकने वाली चीज़ें | अहमदाबाद में सप्लाई | अहमदाबाद तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-ajmer.html: अजमेर और किशनगढ़ में कोटा स्टोन सप्लायर — अजमेर, किशनगढ़, ब्यावर और मध्य राजस्थान तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: अजमेर और किशनगढ़ तक पत्थर कैसे जाता है | अजमेर और किशनगढ़ के लिए उपयुक्त स्पेसिफ़िकेशन | अजमेर और किशनगढ़ और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | अजमेर और किशनगढ़ तक हम क्या भेज सकते हैं | अजमेर और किशनगढ़ में सप्लाई | अजमेर और किशनगढ़ तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-bengaluru.html: बेंगलुरु में कोटा स्टोन सप्लायर — बेंगलुरु, मैसूरु और कर्नाटक तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर बेंगलुरु तक कैसे पहुँचता है | बेंगलुरु के लिए उपयुक्त स्पेसिफ़िकेशन | बेंगलुरु और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | बेंगलुरु भेजी जा सकने वाली चीज़ें | बेंगलुरु में सप्लाई | बेंगलुरु तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-bhopal.html: भोपाल में कोटा स्टोन सप्लायर — भोपाल, सीहोर, विदिशा और मध्य प्रदेश तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर भोपाल तक कैसे पहुँचता है | भोपाल के लिए उपयुक्त स्पेसिफ़िकेशन | भोपाल और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | भोपाल भेजी जा सकने वाली चीज़ें | भोपाल में सप्लाई | भोपाल तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-chandigarh.html: चंडीगढ़ में कोटा स्टोन सप्लायर — चंडीगढ़, मोहाली, पंचकूला, लुधियाना और पंजाब तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: चंडीगढ़ तक पत्थर कैसे जाता है | चंडीगढ़ के लिए उपयुक्त स्पेसिफ़िकेशन | चंडीगढ़ और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | चंडीगढ़ तक हम क्या भेज सकते हैं | चंडीगढ़ में सप्लाई | चंडीगढ़ तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-chennai.html: चेन्नई में कोटा स्टोन सप्लायर — चेन्नई, कोयंबटूर, बेंगलुरु और दक्षिण भारत तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: चेन्नई तक पत्थर कैसे जाता है | चेन्नई के लिए उपयुक्त स्पेसिफ़िकेशन | चेन्नई और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | चेन्नई तक हम क्या भेज सकते हैं | चेन्नई में सप्लाई | चेन्नई तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-dehradun.html: देहरादून में कोटा स्टोन सप्लायर — देहरादून, हरिद्वार, ऋषिकेश, रुड़की तक कोटा स्टोन और मंदाना सैंडस्टोन डिलीवरी, रामगंजमंडी, कोटा की अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: देहरादून तक पत्थर कैसे जाता है | देहरादून के लिए उपयुक्त स्पेसिफ़िकेशन | देहरादून और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | देहरादून तक हम क्या भेज सकते हैं | देहरादून में सप्लाई | देहरादून तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-delhi.html: दिल्ली में कोटा स्टोन सप्लायर — दिल्ली, नोएडा, गुरुग्राम, फ़रीदाबाद, ग़ाज़ियाबाद तक कोटा स्टोन, मंदाना सैंडस्टोन डिलीवरी, रामगंजमंडी, कोटा की अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर दिल्ली तक कैसे पहुँचता है | दिल्ली के लिए उपयुक्त स्पेसिफ़िकेशन | दिल्ली NCR और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | दिल्ली भेजी जा सकने वाली चीज़ें | दिल्ली में सप्लाई | दिल्ली तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-hyderabad.html: हैदराबाद में कोटा स्टोन सप्लायर — हैदराबाद, सिकंदराबाद और तेलंगाना तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर हैदराबाद तक कैसे पहुँचता है | हैदराबाद के लिए उपयुक्त स्पेसिफ़िकेशन | हैदराबाद और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | हैदराबाद भेजी जा सकने वाली चीज़ें | हैदराबाद में सप्लाई | हैदराबाद तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-india.html: पूरे भारत में कोटा स्टोन की सप्लाई — पूरे भारत में कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी और कंटेनर से एक्सपोर्ट, रामगंजमंडी की अपनी यूनिट से सीधे। अपना शहर चुनिए या पिन कोड भेजिए।; sections: रामगंजमंडी से लोड करने का फ़ायदा | हर बार दो आँकड़े | हमारे मुख्य डिलीवरी बाज़ार | यहाँ से क्या जाता है | डिलीवरी और भाड़ा | हमें अपना पिन कोड भेजिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-indore.html: इंदौर में कोटा स्टोन सप्लायर — इंदौर, उज्जैन, देवास और पश्चिमी मध्य प्रदेश तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर इंदौर तक कैसे पहुँचता है | इंदौर के लिए उपयुक्त स्पेसिफ़िकेशन | इंदौर और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | इंदौर भेजी जा सकने वाली चीज़ें | इंदौर में सप्लाई | इंदौर तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-jaipur.html: जयपुर में कोटा स्टोन सप्लायर — जयपुर, अजमेर, टोंक और पूर्वी राजस्थान तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर जयपुर तक कैसे पहुँचता है | जयपुर के लिए उपयुक्त स्पेसिफ़िकेशन | जयपुर और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | जयपुर भेजी जा सकने वाली चीज़ें | जयपुर में सप्लाई | जयपुर तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-jodhpur.html: जोधपुर में कोटा स्टोन सप्लायर — जोधपुर, पाली, नागौर और पश्चिमी राजस्थान तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: जोधपुर तक पत्थर कैसे जाता है | जोधपुर के लिए उपयुक्त स्पेसिफ़िकेशन | जोधपुर और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | जोधपुर तक हम क्या भेज सकते हैं | जोधपुर में सप्लाई | जोधपुर तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-kanpur.html: कानपुर में कोटा स्टोन सप्लायर — कानपुर, लखनऊ, उन्नाव, झाँसी व मध्य उत्तर प्रदेश तक कोटा स्टोन, मंदाना सैंडस्टोन डिलीवरी, रामगंजमंडी, कोटा की अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: कानपुर तक पत्थर कैसे जाता है | कानपुर के लिए उपयुक्त स्पेसिफ़िकेशन | कानपुर और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | कानपुर तक हम क्या भेज सकते हैं | कानपुर में सप्लाई | कानपुर तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-kolkata.html: कोलकाता में कोटा स्टोन सप्लायर — कोलकाता, हावड़ा और पश्चिम बंगाल तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर कोलकाता तक कैसे पहुँचता है | कोलकाता के लिए उपयुक्त स्पेसिफ़िकेशन | कोलकाता और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | कोलकाता भेजी जा सकने वाली चीज़ें | कोलकाता में सप्लाई | कोलकाता तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-lucknow.html: लखनऊ में कोटा स्टोन सप्लायर — लखनऊ, कानपुर, वाराणसी और उत्तर प्रदेश तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर लखनऊ तक कैसे पहुँचता है | लखनऊ के लिए उपयुक्त स्पेसिफ़िकेशन | लखनऊ और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | लखनऊ भेजी जा सकने वाली चीज़ें | लखनऊ में सप्लाई | लखनऊ तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-mumbai.html: मुंबई में कोटा स्टोन सप्लायर — मुंबई, ठाणे, नवी मुंबई और MMR तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पत्थर मुंबई तक कैसे पहुँचता है | मुंबई के लिए उपयुक्त स्पेसिफ़िकेशन | मुंबई और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | मुंबई भेजी जा सकने वाली चीज़ें | मुंबई में सप्लाई | मुंबई तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-nagpur.html: नागपुर में कोटा स्टोन सप्लायर — नागपुर, वर्धा, अमरावती और विदर्भ तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: नागपुर तक पत्थर कैसे जाता है | नागपुर के लिए उपयुक्त स्पेसिफ़िकेशन | नागपुर और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | नागपुर तक हम क्या भेज सकते हैं | नागपुर में सप्लाई | नागपुर तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-patna.html: पटना में कोटा स्टोन सप्लायर — पटना, गया, मुज़फ़्फ़रपुर और बिहार तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पटना तक पत्थर कैसे जाता है | पटना के लिए उपयुक्त स्पेसिफ़िकेशन | पटना और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | पटना तक हम क्या भेज सकते हैं | पटना में सप्लाई | पटना तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-pune.html: पुणे में कोटा स्टोन सप्लायर — पुणे, पिंपरी-चिंचवड़, नासिक व पश्चिमी महाराष्ट्र तक कोटा स्टोन, मंदाना सैंडस्टोन डिलीवरी, रामगंजमंडी, कोटा की अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: पुणे तक पत्थर कैसे जाता है | पुणे के लिए उपयुक्त स्पेसिफ़िकेशन | पुणे और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | पुणे तक हम क्या भेज सकते हैं | पुणे में सप्लाई | पुणे तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-raipur.html: रायपुर में कोटा स्टोन सप्लायर — रायपुर, भिलाई, दुर्ग, बिलासपुर और छत्तीसगढ़ तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: रायपुर तक पत्थर कैसे जाता है | रायपुर के लिए उपयुक्त स्पेसिफ़िकेशन | रायपुर और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | रायपुर तक हम क्या भेज सकते हैं | रायपुर में सप्लाई | रायपुर तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-surat.html: सूरत में कोटा स्टोन सप्लायर — सूरत, वडोदरा, भरूच और दक्षिण गुजरात तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: सूरत तक पत्थर कैसे जाता है | सूरत के लिए उपयुक्त स्पेसिफ़िकेशन | सूरत और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | सूरत तक हम क्या भेज सकते हैं | सूरत में सप्लाई | सूरत तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-udaipur.html: उदयपुर में कोटा स्टोन सप्लायर — उदयपुर, राजसमंद, चित्तौड़गढ़ और मेवाड़ तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी, रामगंजमंडी, कोटा स्थित हमारी अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: उदयपुर तक पत्थर कैसे जाता है | उदयपुर के लिए उपयुक्त स्पेसिफ़िकेशन | उदयपुर और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | उदयपुर तक हम क्या भेज सकते हैं | उदयपुर में सप्लाई | उदयपुर तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-supplier-varanasi.html: वाराणसी में कोटा स्टोन सप्लायर — वाराणसी, प्रयागराज, मिर्ज़ापुर और पूर्वी उत्तर प्रदेश तक कोटा स्टोन और मंदाना सैंडस्टोन की डिलीवरी — रामगंजमंडी, कोटा की अपनी यूनिट से सीधे। डिलीवर्ड रेट पूछिए।; sections: वाराणसी तक पत्थर कैसे जाता है | वाराणसी के लिए उपयुक्त स्पेसिफ़िकेशन | वाराणसी और आस-पास हम कहाँ-कहाँ पहुँचाते हैं | वाराणसी तक हम क्या भेज सकते हैं | वाराणसी में सप्लाई | वाराणसी तक का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone-wholesale.html: कोटा स्टोन थोक, सीधे पट्टी से — कोटा स्टोन और मंदाना सैंडस्टोन थोक में, रामगंजमंडी की अपनी यूनिट से सीधे — कोई व्यापारी मार्जिन नहीं, पूरे ट्रक और कंटेनर लोड, डीलर तथा प्रोजेक्ट सप्लाई।; sections: थोक मात्रा में ख़रीद | स्रोत से ख़रीदने पर क्या मिलता है | हमारे ट्रेड ग्राहक | कोटा स्टोन थोक, सीधे पट्टी से | आगे क्या देखें | आज का रेट पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/kota-stone.html: कोटा स्टोन — रामगंजमंडी पट्टी का ग्रे, ब्लू, ग्रीन और ब्राउन कोटा लाइमस्टोन। हर फ़िनिश, 15–60 मिमी मोटाई, और हमारी अपनी यूनिट पर कटी हर साइज़।; sections: कोटा स्टोन असल में है क्या | रंग और ग्रेड | जो साइज़ हम रखते और काटते हैं | कौन सा रंग, और किस फ़िनिश में? | ज़्यादातर रंग हर उस फ़िनिश में मिलते हैं जो हम चलाते हैं। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/mandana-diamond-polished.html: मंदाना स्टोन डायमंड पॉलिश — डायमंड लाइन पर पॉलिश किया मंदाना सैंडस्टोन — रैंडम बेड-रन स्लैब और 22 × 22 इंच के कट चौकोर, गहरी और टिकाऊ चमक के साथ।; sections: डायमंड पॉलिशिंग असल में क्या करती है | रैंडम स्लैब, या 22″ × 22″ चौकोर। | आम उपयोग | गुण | कट चौकोर और रैंडम स्लैब | तय करने से पहले एक पॉलिश किया पीस मँगवा लीजिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/mandana-honed.html: मंदाना होन्ड — मंदाना सैंडस्टोन को समतल घिसकर चिकना, हल्की चमक वाला मैट बनाया जाता है। होन्ड सतह पत्थर की हल्की गुलाबी रंगत बनाए रखती है, बिना पॉलिश की चकाचौंध और फिसलन के।; sections: मंदाना होन्ड के बारे में | आम उपयोग | गुण | साइज़ और मोटाई | मिलते-जुलते स्टोन | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/mandana-mirror-polish.html: मंदाना मिरर पॉलिश — मंदाना सैंडस्टोन पूरी परावर्तक चमक तक पॉलिश किया हुआ। पॉलिश पत्थर का गर्म लाल-भूरा रंग पूरी तरह उभार देती है।; sections: मंदाना मिरर पॉलिश के बारे में | आम उपयोग | गुण | साइज़ और मोटाई | पूरी लंबाई में पॉलिश, सिर्फ़ चौकोर में नहीं। | मिलते-जुलते स्टोन | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/mandana-red.html: रेड मंदाना स्टोन — राजस्थान की पहचान वाला पत्थर — मंदाना में निकलने वाला गर्म लाल सैंडस्टोन, रैंडम बेड-रन स्लैब और 22″ × 22″ कट चौकोर में।; sections: रेड मंदाना स्टोन के बारे में | आम उपयोग | गुण | साइज़ और मोटाई | किनारे पर खड़ा, टोन के हिसाब से छाँटा हुआ। | मिलते-जुलते स्टोन | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/mandana-sandstone.html: मंदाना स्टोन — कोटा ज़िले का रेड मंदाना सैंडस्टोन — होंड, मिरर पॉलिश और डायमंड पॉलिश में, रैंडम स्लैब तथा कट-टू-साइज़ चौकोर के रूप में।; sections: मंदाना सैंडस्टोन है क्या | रंग और ग्रेड | जो साइज़ हम रखते और काटते हैं | मंदाना स्लैब, हाथ से लोड किए गए। | दोनों में से चुनें कैसे। | ज़्यादातर रंग हर उस फ़िनिश में मिलते हैं जो हम चलाते हैं। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/privacy.html: प्राइवेसी पॉलिसी — kotastone.co वेबसाइट और कोटा स्टोन ऐप की प्राइवेसी पॉलिसी — हम क्या इकट्ठा करते हैं, क्या नहीं, और आपकी जानकारी आपके अपने फ़ोन में कैसे रहती है।; sections: हम आपसे कुछ नहीं माँगते | विस्तार से | कुछ पूछना हो तो | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/projects.html: प्रोजेक्ट्स — आवासीय, संस्थागत और हेरिटेज कामों में कोटा लाइमस्टोन तथा मंदाना सैंडस्टोन की सप्लाई के संदर्भ और उदाहरण।; sections: बड़ा ऑर्डर असल में कैसा दिखता है। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/quote.html: रेट पूछें — कोटा लाइमस्टोन या मंदाना सैंडस्टोन का कोटेशन माँगिए। हम एक्स-यार्ड रामगंजमंडी और आपके पिन कोड तक डिलीवर्ड — दोनों रेट देते हैं।; sections: तीन क़दम, कोई बंधन नहीं।
+- hi/raj-green.html: राज ग्रीन स्टोन — राजस्थान पट्टी का राज ग्रीन सैंडस्टोन — काई जैसा हरा, बफ़, भूरा और धूसर, सॉन तथा रिवन दोनों चेहरों में, पेविंग और बाग़ के काम के लिए।; sections: असल में हरा नहीं | राज ग्रीन अच्छा दिखेगा या नहीं, यह एक ही बात तय करती है। | आम उपयोग | गुण | राज ग्रीन की साइज़ और मोटाई | राज ग्रीन, हमारे बाक़ी सैंडस्टोन के मुक़ाबले | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/ready-to-fit-kota-stone-tiles.html: रेडी-टू-फिट कोटा स्टोन टाइलें — मशीन कट, कैलिब्रेशन और अलग-अलग फ़िनिश वाली रेडी-टू-फिट कोटा टाइलें।; sections: Common formats | Finishes and grades | Before installation | अपने ऑर्डर की जानकारी भेजें | सामान्य सवाल | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/resources.html: गाइड और स्पेसिफ़िकेशन की जानकारी — कोटा लाइमस्टोन और मंदाना सैंडस्टोन के लिए स्पेसिफ़िकेशन और ख़रीद की गाइड — साइज़, फ़िनिश, लगाई, देखभाल और तुलना।; sections: मुश्किल सवाल हमसे पूछिए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/sharda-stone-supplies.html: Sharda Stone Supplies — Sharda Stone Supplies रामगंजमंडी, कोटा — A separately registered group concern for stone supply and quarry-linked trading from Ramganjmandi. आधिकारिक पंजीकरण विवरण और संपर्क मार्ग।; sections: Star Group में Sharda Stone Supplies | अपनी जरूरत ग्रुप टीम को भेजें। | आधिकारिक विवरण सावधानी से प्रकाशित। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/sister-concerns.html: सहयोगी फ़र्म — रामगंजमंडी में अग्रवाल स्टोन सप्लायर्स के साथ काम कर रही स्टार ग्रुप की सहयोगी फ़र्में और उनका काम।; sections: एक परिवार, सात रजिस्ट्रेशन, एक ही मेज़। | शुरुआत खदान से होती है। | किसका काम क्या है, यह आपको सोचना नहीं पड़ेगा। | मुख्य फ़र्म | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/sizes.html: All sizes & thickness — कोटा और मंदाना का पूरा साइज़ चार्ट, मीट्रिक और इंच दोनों में — मोटाई, वज़न और प्रति वर्ग फुट कवरेज के साथ।; sections: तय साइज़, हर छह इंच पर बदलते हुए | जो साइज़ हम रोज़ काटते हैं। | दो मानक बैंड, और उनका वज़न | वज़न कैलकुलेटर | पूरी रेंज के साइज़ | मात्रा और वेस्टेज | हम किस पर टिके रहते हैं। | त्वरित रूपांतरण।
+- hi/star-diamond-tools-kota-stone.html: Star Diamond Tools &amp; Kota Stone — Star Diamond Tools &amp; Kota Stone रामगंजमंडी, कोटा — A separately GST-registered concern for diamond tools and Kota stone requirements. आधिकारिक पंजीकरण विवरण और संपर्क मार्ग।; sections: Star Group में Star Diamond Tools &amp; Kota Stone | अपनी जरूरत ग्रुप टीम को भेजें। | आधिकारिक विवरण सावधानी से प्रकाशित। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/star-exports.html: Star Exports — Star Exports रामगंजमंडी, कोटा — The group’s export-facing enquiry route for overseas stone supply, packing and documentation coordination. आधिकारिक पंजीकरण विवरण और संपर्क मार्ग।; sections: Star Group में Star Exports | अपनी जरूरत ग्रुप टीम को भेजें। | आधिकारिक विवरण सावधानी से प्रकाशित। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/stone-coving.html: कोटा और मंदाना स्टोन कॉविन — कोटा और मंदाना स्टोन कोविंग (कॉविन) — 63 × 70–75 मिमी कोव स्कर्टिंग, 20″ से 27″ लंबाई में, साथ में उसी प्रोफ़ाइल में कटे तैयार भीतरी और बाहरी कोने।; sections: कॉविन असल में करता क्या है | कॉर्नर बने-बनाए आते हैं। | कोटा और मंदाना कॉविन, एक ही सेक्शन | आम उपयोग | स्पेसिफ़िकेशन | सेक्शन और साइज़ | कॉविन का रन सही बिठाना। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/stone-process.html: पत्थर कैसे फ़िनिश होता है — रामगंजमंडी में कोटा स्टोन का पूरा प्रोसेस देखें — कटर, अब्रेसिव, डायमंड टूल्स, पानी वाली पॉलिशिंग और कई फ़िनिश हमारी अपनी लाइन पर फ़िल्माई गई हैं।; sections: एक लाइन, कई प्रोसेस और फ़िनिश | लाइन पॉलिशर से कैलिब्रेशन | दो किनारे, एक सच्चा समकोण | कोटा लाइन पर टेबल पॉलिश | डायमंड पॉलिशिंग लाइन, पानी के साथ | फ़िनिश के बारे में और | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/the-yard.html: हमारा यार्ड — अमरपुरा स्थित हमारी यूनिट के भीतर: गैंग सॉ, कैलिब्रेशन, पॉलिशिंग, ग्रूविंग, कट-टू-साइज़ और लोडिंग।; sections: कटाई, कैलिब्रेशन और फ़िनिशिंग — सब एक ही जगह। | यहाँ हम क्या-क्या कर सकते हैं | छँटाई आधा काम क्यों है। | आपकी साइट तक पहुँचाना। | लोड असल में कैसे लगाया जाता है। | दिन की रोशनी में पूरी स्लैब देखने आइए। | साइज़, फ़िनिश और मात्रा बताइए।
+- hi/tools.html: कोटा स्टोन कैलकुलेटर — कोटा स्टोन के लिए ट्रेड कैलकुलेटर — वज़न, प्रति टुकड़ा क्षेत्रफल, ट्रक लोड और फ़र्श की लागत। इंच या फुट में नाप भरिए। बिना नेटवर्क भी चलते हैं।; sections: वज़न कैलकुलेटर | फ़्लोरिंग लागत कैलकुलेटर | आगे क्या देखें | साइज़, फ़िनिश और मात्रा बताइए।
+- index.html: Kota Stone &amp; Mandana Sandstone, cut and finished to specification. — Kota stone manufacturer and supplier since 2008 — blue, grey, green and brown limestone plus Red Mandana sandstone, direct from Ramganjmandi. From ₹9/sq ft.; sections: Eight categories. Start with the one you need. | Kota stone price starts from ₹9 per sq. ft. | Our own unit. A trusted network across the belt. | Twelve finishes. The right one decides whether a floor is safe. | Where our stone ends up. | Straight answers, then stone. | Every stone on this page is ours. | Pan-India delivery, and export from Ramganjmandi.
+- install.html: Keep the catalogue in your pocket — Add the Kota Stone catalogue to your phone; sections: Three taps. | Three taps. | Why bother installing it. | Save the whole catalogue to your phone | Tell us the size, finish and quantity.
+- kandla-grey.html: Kandla Grey Stone — The grey sandstone that made Indian paving a global product. Cool, even-toned and dense enough to survive frost, it is the most specified Indian stone in t; sections: About Kandla Grey Stone | Typical applications | Properties | Kandla Grey Stone formats and thickness | How Kandla Grey Stone compares | See it before you commit. | Tell us the size, finish and quantity.
+- kota-brown.html: Brown / Honey Kota Stone — Brown Kota runs from pale honey to a deep tan with occasional ochre veining. It is the warm option, and it is the one that sits best against brick, terracotta; sections: About Brown / Honey Kota Stone | Typical applications | Properties | Formats and thickness | Brown Kota, mirror polished, 22″ × 22″. | Honed brown, 22″ × 22″. | 22″ × 16″, mirror polished. | Related stone
+- kota-cobbles.html: Kota Stone Cobbles — Hand-cut cobbles and setts in blue and brown Kota - square, rectangular and random, with the split faces left as the quarryman leaves them.; sections: About Kota Stone Cobbles | Typical applications | Properties | Formats and thickness | Related stone | Tell us the size, finish and quantity.
+- kota-grades.html: Fresh, medium and waterproof quality — Kota stone quality grades explained — fresh, medium and waterproof — compared on colour, edges, veining, wastage and rate. Each grade is available in any finish: rough, diamond-cut, honed, mirror or table polish.; sections: Fresh Grade Kota Stone | Medium Grade Kota Stone | Waterproof Kota Stone (rough reject) | Diamond cut, 22″ and 23″. | What actually differs | Available in every grade | Four questions to ask any supplier. | Tell us the size, finish and quantity.
+- kota-green.html: Green Kota Stone — Green Kota is the denser, tighter-grained end of the deposit. Polished, it goes almost black-green with a mirror surface; honed or leathered it reads as a dee; sections: About Green Kota Stone | Typical applications | Properties | Formats and thickness | Calibrated green Kota, 46″ × 22″. | Why we stack green on edge. | Related stone | Tell us the size, finish and quantity.
+- kota-grey.html: Grey / Blue Kota Stone — Grey Kota - sold in the trade as blue Kota, the same stone under a different name. A cool blue-grey limestone with a fine, even grain, it takes every finish w; sections: About Grey / Blue Kota Stone | Typical applications | Properties | Formats and thickness | Four surfaces, one stone. | Rock-faced, chiselled by hand. | Bed-run slabs to 8.5 feet. | Related stone
+- kota-polished-22x22.html: Kota stone high polish, 22″ × 22″ — Mirror-polished, machine-calibrated grey Kota stone in 22 x 22 inch squares at 15-25 mm, held to plus or minus 1 mm for thin-bed adhesive floors.; sections: Polish is the face. Calibration is the back. | What the premium actually buys you. | High polish without calibration. | See the polish move. | Typical applications | Specification | Calibrated formats | Common questions
+- kota-stone-advantages-disadvantages.html: Kota Stone: Advantages and Disadvantages — An honest account of Kota stone advantages and disadvantages from a supplier who cuts it — durability and cost against etching, tonal variation and slip.; sections: Advantages | Disadvantages | So should you use it? | Kota Stone: Advantages and Disadvantages | Where to go next | Ask for today’s rate. | Tell us the size, finish and quantity.
+- kota-stone-architects-contractors.html: Stone Supply for Architects & Contractors — Project supply of Kota stone, Mandana, Kandla Grey, Raj Green and basalt for architects, contractors, builders and institutional work across India.; sections: What we can help specify | Technical information | Send a project enquiry | Send your order details | Common questions | Tell us the size, finish and quantity.
+- kota-stone-calculator.html: STAR GROUP — Offline Kota stone calculator: pemaish, laying area, weight, freight, loading and GST in one file.; sections: ' + esc(T.title) + '
+- kota-stone-export.html: Kota Stone &amp; Sandstone Export — Kota stone and Mandana sandstone exported by container from Ramganjmandi, Kota — seaworthy crating, container stuffing and full documentation. IEC AVWPG0336Q.; sections: Packing for sea is a different job | What actually fits in a container | What we export | Export supply | Tell us the port and the quantity. | Tell us the size, finish and quantity.
+- kota-stone-flooring-cost.html: Kota Stone Flooring Cost — What a Kota stone floor really costs — material, freight, laying labour, polishing and wastage, with a calculator you fill in using your own quoted rates.; sections: What you are actually paying for | Factory polish or in-situ polish? | Cost calculator | What a quote should tell you | Kota Stone Flooring Cost | Where to go next | Ask for today’s rate. | Tell us the size, finish and quantity.
+- kota-stone-flooring.html: Kota Stone Flooring — Kota stone flooring explained by the people who cut it — which thickness for a house or driveway, which finish belongs where, and what drives the price.; sections: A limestone, not a marble. | Thickness by application | Which finish belongs on a floor | Where Kota stone is the wrong answer | Kota Stone Flooring | Where to go next | Ask for today’s rate. | Tell us the size, finish and quantity.
+- kota-stone-installation-cost.html: Kota Stone Installation Cost — Understand Kota stone flooring installation cost: stone, transport, bedding, labour, jointing, polishing, wastage and site conditions, with a landed-cost calculator.; sections: Cost components | What changes the labour cost | Use the calculator | Send your order details | Common questions | Tell us the size, finish and quantity.
+- kota-stone-polishing.html: Kota Stone Polishing — How Kota stone is polished — factory mirror and diamond polish against in-situ grinding, what calibration does, and which finish suits which floor.; sections: What each level of polish means | Factory polish against in-situ polish | Which polish for which floor | Kota Stone Polishing | Where to go next | Ask for today’s rate. | Tell us the size, finish and quantity.
+- kota-stone-price-per-piece.html: Kota Stone Price Per Piece — Kota stone per-piece prices for 22×22 and 23×23 tiles, with equivalent square-foot rates, size, thickness and delivery questions answered by Agrawal Stone Suppliers.; sections: Published per-piece examples | How the conversion works | Ask for an exact rate | Send your order details | Common questions | Tell us the size, finish and quantity.
+- kota-stone-rates.html: Kota Stone Rates — Kota stone rate list — 22×22 and 23×23 squares, cut sizes, slabs to 8 ft, Mandana and chirai, per sq ft and per piece. From ₹9/sq ft. Call for today’s rate.; sections: Every stone, from ₹9 per sq. ft. | Rate list | What changes the rate | How to get a rate | Rates and pricing | Ask for today's rate. | Tell us the size, finish and quantity.
+- kota-stone-samples-bulk-orders.html: Samples, Bulk Orders & Batch Matching — Request Kota stone samples, bulk and repeat-order quotations, batch matching, truck loading and factory-direct supply from Ramganjmandi.; sections: For a sample request | For a bulk order | Factory-direct process | Send your order details | Common questions | Tell us the size, finish and quantity.
+- kota-stone-slabs-pavers.html: Kota Stone Slabs, Pavers & Outdoor Formats — Kota stone slabs, paving pieces, cobbles and outdoor formats for floors, driveways, courtyards and walkways, cut and finished to project specification.; sections: Formats supplied | Outdoor specification | Related sandstone options | Send your order details | Common questions | Tell us the size, finish and quantity.
+- kota-stone-supplier-agra.html: Kota Stone Supplier in Agra — Kota stone price and delivery to Agra, Mathura, Gwalior, Firozabad and the Braj region, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Agra | Specification that suits Agra | Where we deliver around Agra | What we can send to Agra | Supplying Agra | Ask for a rate to Agra. | Tell us the size, finish and quantity.
+- kota-stone-supplier-ahmedabad.html: Kota Stone Supplier in Ahmedabad — Kota stone price and delivery to Ahmedabad, Gandhinagar, Vadodara and Surat, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Ahmedabad | Specification that suits Ahmedabad | Where we deliver around Ahmedabad | What we can send to Ahmedabad | Supplying Ahmedabad | Ask for a rate to Ahmedabad. | Tell us the size, finish and quantity.
+- kota-stone-supplier-ajmer.html: Kota Stone Supplier in Ajmer &amp; Kishangarh — Kota stone price and delivery to Ajmer, Kishangarh, Beawar and central Rajasthan, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Ajmer &amp; Kishangarh | Specification that suits Ajmer &amp; Kishangarh | Where we deliver around Ajmer and Kishangarh | What we can send to Ajmer &amp; Kishangarh | Supplying Ajmer &amp; Kishangarh | Ask for a rate to Ajmer &amp; Kishangarh. | Tell us the size, finish and quantity.
+- kota-stone-supplier-bengaluru.html: Kota Stone Supplier in Bengaluru — Kota stone price and delivery to Bengaluru, Mysuru and Karnataka, direct from our own unit at Ramganjmandi, Kota. Ask for a delivered rate.; sections: How the stone reaches Bengaluru | Specification that suits Bengaluru | Where we deliver around Bengaluru | What we can send to Bengaluru | Supplying Bengaluru | Ask for a rate to Bengaluru. | Tell us the size, finish and quantity.
+- kota-stone-supplier-bhopal.html: Kota Stone Supplier in Bhopal — Kota stone price and delivery to Bhopal, Sehore, Vidisha and central MP, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Bhopal | Specification that suits Bhopal | Where we deliver around Bhopal | What we can send to Bhopal | Supplying Bhopal | Ask for a rate to Bhopal. | Tell us the size, finish and quantity.
+- kota-stone-supplier-chandigarh.html: Kota Stone Supplier in Chandigarh — Kota stone price and delivery to Chandigarh, Mohali, Panchkula, Ludhiana and Punjab, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Chandigarh | Specification that suits Chandigarh | Where we deliver around Chandigarh | What we can send to Chandigarh | Supplying Chandigarh | Ask for a rate to Chandigarh. | Tell us the size, finish and quantity.
+- kota-stone-supplier-chennai.html: Kota Stone Supplier in Chennai — Kota stone price and delivery to Chennai, Coimbatore, Bengaluru and south India, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Chennai | Specification that suits Chennai | Where we deliver around Chennai | What we can send to Chennai | Supplying Chennai | Ask for a rate to Chennai. | Tell us the size, finish and quantity.
+- kota-stone-supplier-dehradun.html: Kota Stone Supplier in Dehradun — Kota stone price and delivery to Dehradun, Haridwar, Rishikesh, Roorkee and Uttarakhand, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Dehradun | Specification that suits Dehradun | Where we deliver around Dehradun | What we can send to Dehradun | Supplying Dehradun | Ask for a rate to Dehradun. | Tell us the size, finish and quantity.
+- kota-stone-supplier-delhi.html: Kota Stone Supplier in Delhi — Kota stone price and delivery to Delhi, Noida, Gurugram, Faridabad and Ghaziabad, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Delhi | Specification that suits Delhi | Where we deliver around Delhi NCR | What we can send to Delhi | Supplying Delhi | Ask for a rate to Delhi. | Tell us the size, finish and quantity.
+- kota-stone-supplier-hyderabad.html: Kota Stone Supplier in Hyderabad — Kota stone price and delivery to Hyderabad, Secunderabad and Telangana, direct from our own unit at Ramganjmandi, Kota. Ask for a delivered rate.; sections: How the stone reaches Hyderabad | Specification that suits Hyderabad | Where we deliver around Hyderabad | What we can send to Hyderabad | Supplying Hyderabad | Ask for a rate to Hyderabad. | Tell us the size, finish and quantity.
+- kota-stone-supplier-india.html: Kota Stone Supplied Across India — Kota stone and Mandana sandstone delivered across India and exported by container, direct from Ramganjmandi, Kota. Find your city, or send a pin code.; sections: Why Ramganjmandi is a good place to load from | Two numbers, every time | Our main delivery markets | What ships from here | Delivery and freight | Send us a pin code. | Tell us the size, finish and quantity.
+- kota-stone-supplier-indore.html: Kota Stone Supplier in Indore — Kota stone price and delivery to Indore, Ujjain, Dewas and western MP, direct from our own unit at Ramganjmandi, Kota. Ask for a delivered rate.; sections: How the stone reaches Indore | Specification that suits Indore | Where we deliver around Indore | What we can send to Indore | Supplying Indore | Ask for a rate to Indore. | Tell us the size, finish and quantity.
+- kota-stone-supplier-jaipur.html: Kota Stone Supplier in Jaipur — Kota stone price and delivery to Jaipur, Ajmer, Tonk and eastern Rajasthan, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Jaipur | Specification that suits Jaipur | Where we deliver around Jaipur | What we can send to Jaipur | Supplying Jaipur | Ask for a rate to Jaipur. | Tell us the size, finish and quantity.
+- kota-stone-supplier-jodhpur.html: Kota Stone Supplier in Jodhpur — Kota stone price and delivery to Jodhpur, Pali, Nagaur and western Rajasthan, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Jodhpur | Specification that suits Jodhpur | Where we deliver around Jodhpur | What we can send to Jodhpur | Supplying Jodhpur | Ask for a rate to Jodhpur. | Tell us the size, finish and quantity.
+- kota-stone-supplier-kanpur.html: Kota Stone Supplier in Kanpur — Kota stone price and delivery to Kanpur, Lucknow, Unnao, Jhansi and central Uttar Pradesh, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Kanpur | Specification that suits Kanpur | Where we deliver around Kanpur | What we can send to Kanpur | Supplying Kanpur | Ask for a rate to Kanpur. | Tell us the size, finish and quantity.
+- kota-stone-supplier-kolkata.html: Kota Stone Supplier in Kolkata — Kota stone price and delivery to Kolkata, Howrah and West Bengal, direct from our own unit at Ramganjmandi, Kota. Ask for a delivered rate.; sections: How the stone reaches Kolkata | Specification that suits Kolkata | Where we deliver around Kolkata | What we can send to Kolkata | Supplying Kolkata | Ask for a rate to Kolkata. | Tell us the size, finish and quantity.
+- kota-stone-supplier-lucknow.html: Kota Stone Supplier in Lucknow — Kota stone price and delivery to Lucknow, Kanpur, Varanasi and Uttar Pradesh, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Lucknow | Specification that suits Lucknow | Where we deliver around Lucknow | What we can send to Lucknow | Supplying Lucknow | Ask for a rate to Lucknow. | Tell us the size, finish and quantity.
+- kota-stone-supplier-mumbai.html: Kota Stone Supplier in Mumbai — Kota stone price and delivery to Mumbai, Thane, Navi Mumbai and the MMR, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Mumbai | Specification that suits Mumbai | Where we deliver around Mumbai | What we can send to Mumbai | Supplying Mumbai | Ask for a rate to Mumbai. | Tell us the size, finish and quantity.
+- kota-stone-supplier-nagpur.html: Kota Stone Supplier in Nagpur — Kota stone price and delivery to Nagpur, Wardha, Amravati and Vidarbha, direct from our own unit at Ramganjmandi, Kota. Ask for a delivered rate.; sections: How the stone reaches Nagpur | Specification that suits Nagpur | Where we deliver around Nagpur | What we can send to Nagpur | Supplying Nagpur | Ask for a rate to Nagpur. | Tell us the size, finish and quantity.
+- kota-stone-supplier-patna.html: Kota Stone Supplier in Patna — Kota stone price and delivery to Patna, Gaya, Muzaffarpur and Bihar, direct from our own unit at Ramganjmandi, Kota. Ask for a delivered rate.; sections: How the stone reaches Patna | Specification that suits Patna | Where we deliver around Patna | What we can send to Patna | Supplying Patna | Ask for a rate to Patna. | Tell us the size, finish and quantity.
+- kota-stone-supplier-pune.html: Kota Stone Supplier in Pune — Kota stone price and delivery to Pune, Pimpri-Chinchwad, Nashik and western Maharashtra, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Pune | Specification that suits Pune | Where we deliver around Pune | What we can send to Pune | Supplying Pune | Ask for a rate to Pune. | Tell us the size, finish and quantity.
+- kota-stone-supplier-raipur.html: Kota Stone Supplier in Raipur — Kota stone price and delivery to Raipur, Bhilai, Durg, Bilaspur and Chhattisgarh, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Raipur | Specification that suits Raipur | Where we deliver around Raipur | What we can send to Raipur | Supplying Raipur | Ask for a rate to Raipur. | Tell us the size, finish and quantity.
+- kota-stone-supplier-surat.html: Kota Stone Supplier in Surat — Kota stone price and delivery to Surat, Vadodara, Bharuch and south Gujarat, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Surat | Specification that suits Surat | Where we deliver around Surat | What we can send to Surat | Supplying Surat | Ask for a rate to Surat. | Tell us the size, finish and quantity.
+- kota-stone-supplier-udaipur.html: Kota Stone Supplier in Udaipur — Kota stone price and delivery to Udaipur, Rajsamand, Chittorgarh and Mewar, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Udaipur | Specification that suits Udaipur | Where we deliver around Udaipur | What we can send to Udaipur | Supplying Udaipur | Ask for a rate to Udaipur. | Tell us the size, finish and quantity.
+- kota-stone-supplier-varanasi.html: Kota Stone Supplier in Varanasi — Kota stone price and delivery to Varanasi, Prayagraj, Mirzapur and eastern Uttar Pradesh, direct from our unit at Ramganjmandi, Kota.; sections: How the stone reaches Varanasi | Specification that suits Varanasi | Where we deliver around Varanasi | What we can send to Varanasi | Supplying Varanasi | Ask for a rate to Varanasi. | Tell us the size, finish and quantity.
+- kota-stone-wholesale.html: Kota Stone Wholesale, Direct from the Belt — Kota stone and Mandana sandstone wholesale, direct from our Ramganjmandi unit — no trading margin, full truck and container loads, dealer and project supply.; sections: Buying at trade quantity | What you get buying at source | Trade customers we supply | Kota Stone Wholesale, Direct from the Belt | Where to go next | Ask for today’s rate. | Tell us the size, finish and quantity.
+- kota-stone.html: Kota Stone — Grey, blue and brown Kota limestone from the Ramganjmandi belt. Every finish, 15–60 mm, cut to specification and delivered across India.; sections: What Kota stone actually is | Colours and grades | Standard formats we hold and cut | Which colour, and in what finish? | Common questions | Most colours come in every finish we run. | Tell us the size, finish and quantity.
+- mandana-diamond-polished.html: Mandana stone diamond polish — Diamond-polished Mandana sandstone in random bed-run slabs and 22 x 22 inch cut squares, 15-60 mm, from our own yard at Ramganjmandi, Kota.; sections: What diamond polishing actually does | Random slabs, or 22″ × 22″ squares. | Typical applications | Properties | Cut squares and random slabs | Ask for a polished piece before you commit. | Tell us the size, finish and quantity.
+- mandana-honed.html: Mandana Honed — Mandana sandstone ground flat to a smooth, low-sheen matte. The honed face keeps the stone; sections: About Mandana Honed | Typical applications | Properties | Formats and thickness | Related stone | Tell us the size, finish and quantity.
+- mandana-mirror-polish.html: Mandana Mirror Polish — Mandana sandstone taken all the way to a full reflective gloss. The polish pulls the depth out of the stone and turns a quiet rose into something considerably; sections: About Mandana Mirror Polish | Typical applications | Properties | Formats and thickness | Polished full length, not just in squares. | Related stone | Tell us the size, finish and quantity.
+- mandana-red.html: Red Mandana Stone — The stone Rajasthan is known for. A warm red sandstone quarried at Mandana barely thirty kilometres from our unit, supplied as random bed-run slabs and cut sq; sections: About Red Mandana Stone | Typical applications | Properties | Formats and thickness | Stacked on edge, sorted by tone. | Related stone | Tell us the size, finish and quantity.
+- mandana-sandstone.html: Mandana Stone — Red Mandana sandstone from Kota district — honed, mirror polished and diamond polished. Through-body colour, supplied across India.; sections: What Mandana sandstone is | Colours and grades | Standard formats we hold and cut | Mandana slabs, loaded by hand. | How to choose between the two. | Common questions | Most colours come in every finish we run. | Tell us the size, finish and quantity.
+- privacy.html: Privacy policy — Privacy policy for the kotastone.co website and the Kota Stone app — what we collect, what we do not, and how your enquiry stays on your own phone.; sections: We do not ask you for anything | In detail | Ask us anything about this | Tell us the size, finish and quantity.
+- projects.html: Projects — Supply references for Kota limestone and Mandana sandstone across residential, institutional, hospitality, heritage and landscape projects in India.; sections: What a large order actually looks like. | Tell us the size, finish and quantity.
+- quote.html: Request a quote — Request a quotation for Kota limestone or Mandana sandstone. We quote ex-yard Ramganjmandi and delivered to your site anywhere in India.; sections: Three steps, no obligation.
+- raj-green.html: Raj Green Stone — Raj Green sandstone from the Rajasthan belt — moss green, buff, brown and grey in riven, sawn and honed finishes. Patio sizes and 22 mm calibrated.; sections: Not actually green | The one thing that decides whether Raj Green looks good. | Typical applications | Properties | Raj Green formats and thickness | Raj Green against our other sandstones | Tell us the size, finish and quantity.
+- ready-to-fit-kota-stone-tiles.html: Ready-to-Fit Kota Stone Tiles — Ready-to-fit Kota stone tiles in common square and rectangular sizes, with machine-cut edges, calibration and natural, honed or polished finishes from Ramganjmandi.; sections: Common formats | Finishes and grades | Before installation | Send your order details | Common questions | Tell us the size, finish and quantity.
+- resources.html: Resources &amp; specification guides — Specification and buying guides for Kota limestone and Mandana sandstone: sizing, comparisons, laying, finishes and maintenance.; sections: Ask us the awkward question. | Tell us the size, finish and quantity.
+- sharda-stone-supplies.html: Sharda Stone Supplies — Sharda Stone Supplies in Ramganjmandi, Kota — A separately registered group concern for stone supply and quarry-linked trading from Ramganjmandi. Official registration details, role and enquiry route.; sections: Sharda Stone Supplies in the Star Group | Share the requirement with the group team. | Official details, carefully published. | Tell us the size, finish and quantity.
+- sister-concerns.html: Sister concerns — The seven associated firms operating alongside Agrawal Stone Suppliers at Ramganjmandi, Kota — quarrying, minerals, processing, tooling, trading and export.; sections: One family, seven registrations, one table. | It starts at the face. | You do not have to work out who does what. | The parent listing | Tell us the size, finish and quantity.
+- sizes.html: All sizes &amp; thickness — Complete Kota stone size chart in metric and imperial with thickness, weight and coverage per tonne, plus sizes for Mandana, Kandla Grey and basalt.; sections: Fixed sizes, stepping every six inches | The sizes we cut every day. | Two standard bands, and what they weigh | Weight calculator | Sizes across the full range | Quantities and wastage | What we hold to. | Quick conversions.
+- star-diamond-tools-kota-stone.html: Star Diamond Tools &amp; Kota Stone — Star Diamond Tools &amp; Kota Stone in Ramganjmandi, Kota — A separately GST-registered concern for diamond tools and Kota stone requirements. Official registration details, role and enquiry route.; sections: Star Diamond Tools &amp; Kota Stone in the Star Group | Share the requirement with the group team. | Official details, carefully published. | Tell us the size, finish and quantity.
+- star-exports.html: Star Exports — Star Exports in Ramganjmandi, Kota — The group’s export-facing enquiry route for overseas stone supply, packing and documentation coordination. Official registration details, role and enquiry route.; sections: Star Exports in the Star Group | Share the requirement with the group team. | Official details, carefully published. | Tell us the size, finish and quantity.
+- stone-coving.html: Kota &amp; Mandana stone cowin — Kota and Mandana stone coving (cowin) — 63 × 70–75 mm cove skirting in 20″–27″ lengths, with ready-made internal and external corners cut to the same profile.; sections: What cowin actually does | The corners come ready-made. | Kota and Mandana cowin, same section | Typical applications | Specification | Section and sizes | Getting a cowin run right. | Tell us the size, finish and quantity.
+- stone-process.html: How the stone is finished — Watch the complete Kota stone process at Ramganjmandi — cutters, abrasives, diamond tools, water-fed polishing and multiple finishes filmed on our own line.; sections: One line, multiple processes and finishes | Calibration with the line polisher | Two edges, one true right angle | Table polish on the Kota line | Diamond polishing line, water-fed | More on the finishes | Tell us the size, finish and quantity.
+- the-yard.html: The Yard — Inside our unit at Amarpura: gang sawing, calibration, polishing, grooving, cut-to-size work, sorting and pan-India dispatch.; sections: Sawing, calibration and finishing under one roof. | What we can do here | Why sorting is half the job. | Getting it to your site. | How a load is actually built. | Come and see full slabs in daylight. | Tell us the size, finish and quantity.
+- tools.html: Kota stone calculators — Trade calculators for Kota stone — weight, area per piece, truck loads and flooring cost. Sizes in inches or feet. They work with no signal once installed.; sections: Weight calculator | Flooring cost calculator | Where to go next | Tell us the size, finish and quantity.
+
+=== CURRENT MEDIA INVENTORY ===
+These are the media files shipped with the site; do not claim an image or video is present if it is not listed here.
+- apple-touch-icon.png
+- assets/img/favicon.png
+- assets/img/favicon.svg
+- assets/img/icon-180.png
+- assets/img/icon-512.png
+- assets/img/shila-avatar-full.png
+- assets/img/shila-avatar.png
+- assets/img/star-mark-light.png
+- assets/img/star-mark-light.svg
+- assets/img/star-mark.png
+- assets/img/star-mark.svg
+- favicon.png
+- images/basalt-blocks.jpg
+- images/basalt-blocks.webp
+- images/basalt-cladding-display.jpg
+- images/basalt-cladding-display.webp
+- images/basalt-cladding-wall.jpg
+- images/basalt-cobbles-grid.jpg
+- images/basalt-cobbles-laying.jpg
+- images/basalt-cobbles-load.jpg
+- images/basalt-cobbles-stock.jpg
+- images/basalt-cobbles-stock.webp
+- images/basalt-cobbles.jpg
+- images/basalt-crazy-paving.jpg
+- images/basalt-crazy-paving.webp
+- images/basalt-diamond-cut-face.jpg
+- images/basalt-diamond-cut-face.webp
+- images/basalt-diamond-cut-unit.jpg
+- images/basalt-diamond-cut-unit.webp
+- images/basalt-finishes-chart.jpg
+- images/basalt-finishes-chart.webp
+- images/basalt-flame-finish-2.jpg
+- images/basalt-flame-finish-2.webp
+- images/basalt-flame-finish.jpg
+- images/basalt-flame-finish.webp
+- images/basalt-grooved-edge.jpg
+- images/basalt-grooved-edge.webp
+- images/basalt-grooved-stack.jpg
+- images/basalt-grooved-stack.webp
+- images/basalt-grooved-wall.jpg
+- images/basalt-grooved-wall.webp
+- images/basalt-honed.jpg
+- images/basalt-leather-2.jpg
+- images/basalt-leather-2.webp
+- images/basalt-leather.jpg
+- images/basalt-leather.webp
+- images/basalt-mixed-finish-tiles.jpg
+- images/basalt-mixed-finish-tiles.webp
+- images/basalt-rock-faced-strips.jpg
+- images/basalt-rock-faced-strips.webp
+- images/basalt-rock-faced.jpg
+- images/basalt-sandblasted-strips.jpg
+- images/basalt-sandblasted-strips.webp
+- images/basalt-steps-rockface.jpg
+- images/basalt-steps-rockface.webp
+- images/calibration-line-polisher-poster.jpg
+- images/calibration-line-polisher-poster.webp
+- images/certificate-msme-zed-bronze.jpg
+- images/certificate-msme-zed-bronze.webp
+- images/cobbles-stock-wide.jpg
+- images/cobbles-stock-wide2.jpg
+- images/coving-corner-external.jpg
+- images/coving-corner-external.webp
+- images/coving-corner-internal.jpg
+- images/coving-corner-internal.webp
+- images/coving-dimensions.jpg
+- images/coving-dimensions.webp
+- images/coving-gauge.jpg
+- images/coving-gauge.webp
+- images/coving-kota-load.jpg
+- images/coving-kota-load.webp
+- images/coving-kota-stack.jpg
+- images/coving-kota-stack.webp
+- images/coving-kota-truck.jpg
+- images/coving-kota-truck.webp
+- images/coving-length.jpg
+- images/coving-length.webp
+- images/coving-mandana-corner.jpg
+- images/coving-mandana-corner.webp
+- images/coving-mandana-packed.jpg
+- images/coving-mandana-packed.webp
+- images/coving-mandana-piece.jpg
+- images/coving-mandana-piece.webp
+- images/coving-mandana.jpg
+- images/coving-profile.jpg
+- images/coving-profile.webp
+- images/designer-tile-basalt-leaf.jpg
+- images/designer-tile-basalt-leaf.webp
+- images/designer-tile-brickbond.jpg
+- images/designer-tile-brown-checks.jpg
+- images/designer-tile-brown-checks.webp
+- images/designer-tile-checker.jpg
+- images/designer-tile-colours.jpg
+- images/designer-tile-dark.jpg
+- images/designer-tile-diagonal.jpg
+- images/designer-tile-diamond.jpg
+- images/designer-tile-diamond.webp
+- images/designer-tile-grid.jpg
+- images/designer-tile-marble.jpg
+- images/designer-tile-marble.webp
+- images/designer-tile-wall.jpg
+- images/designer-tile-wall.webp
+- images/despatch-crated-close.jpg
+- images/despatch-crated.jpg
+- images/despatch-dividers.jpg
+- images/despatch-loaded.jpg
+- images/despatch-loaded.webp
+- images/despatch-slabs.jpg
+- images/despatch-slabs.webp
+- images/despatch-wide.jpg
+- images/despatch-wide.webp
+- images/diamond-polish-poster.jpg
+- images/diamond-polish-poster.webp
+- images/festival-diwali-stone-yard.jpg
+- images/festival-dussehra-stone-yard.jpg
+- images/festival-general-stone-yard.jpg
+- images/festival-holi-stone-yard.jpg
+- images/festivals-2026-2027/baisakhi-2027.jpg
+- images/festivals-2026-2027/chhath-2027.jpg
+- images/festivals-2026-2027/christmas-2027.jpg
+- images/festivals-2026-2027/dhanteras-2026.jpg
+- images/festivals-2026-2027/dhanteras-2027.jpg
+- images/festivals-2026-2027/diwali-2027.jpg
+- images/festivals-2026-2027/durga-puja-2026.jpg
+- images/festivals-2026-2027/dussehra-2027.jpg
+- images/festivals-2026-2027/easter-2027.jpg
+- images/festivals-2026-2027/eid-adha-2027.jpg
+- images/festivals-2026-2027/eid-fitr-2027.jpg
+- images/festivals-2026-2027/exec-07da296d-cd55-48a9-bbc9-5ca17d2a9114.jpg
+- images/festivals-2026-2027/exec-0df5bd55-f85f-450c-a4c7-1b778bdb127a.jpg
+- images/festivals-2026-2027/exec-0ee52161-0afc-4565-9ba3-5cd01ae331f3.jpg
+- images/festivals-2026-2027/exec-1a7dbc5e-ff15-409a-944e-d268eefb53ad.jpg
+- images/festivals-2026-2027/exec-1db1eb5f-2707-46ef-a18f-048c7f137786.jpg
+- images/festivals-2026-2027/exec-362302f2-c5a7-46e3-95fb-d1dbbe97632b.jpg
+- images/festivals-2026-2027/exec-6a6c750c-1078-485e-9d11-da6692d2e3f6.jpg
+- images/festivals-2026-2027/exec-6aa3a746-7091-4aef-b634-f8b095473f21.jpg
+- images/festivals-2026-2027/exec-6b6aaf28-8f07-464a-8a04-1c083c059926.jpg
+- images/festivals-2026-2027/exec-7a414095-b100-4050-abcb-b1469500e44c.jpg
+- images/festivals-2026-2027/exec-7c0bf417-87ef-4082-8000-8a09b523fd4f.jpg
+- images/festivals-2026-2027/exec-d14711f6-f89b-4d1b-b060-a64a12db10e5.jpg
+- images/festivals-2026-2027/exec-d6eaa256-0d5e-464e-927a-bf1d8a1aceae.jpg
+- images/festivals-2026-2027/exec-eaf11459-ec5c-4d80-87a8-8d82b8b63996.jpg
+- images/festivals-2026-2027/exec-eeecb6df-3784-4461-baa5-77c9006d5901.jpg
+- images/festivals-2026-2027/exec-f190c7f4-cde0-4a03-958b-de4b56cc312a.jpg
+- images/festivals-2026-2027/good-friday-2027.jpg
+- images/festivals-2026-2027/guru-gobind-2027.jpg
+- images/festivals-2026-2027/guru-nanak-2027.jpg
+- images/festivals-2026-2027/guru-purnima-2027.jpg
+- images/festivals-2026-2027/independence-2027.jpg
+- images/festivals-2026-2027/janmashtami-2027.jpg
+- images/festivals-2026-2027/karwa-chauth-2026.jpg
+- images/festivals-2026-2027/lohri-2027.jpg
+- images/festivals-2026-2027/mahavir-2027.jpg
+- images/festivals-2026-2027/naraka-chaturdashi-2027.jpg
+- images/festivals-2026-2027/navratri-2027.jpg
+- images/festivals-2026-2027/new-year-2027.jpg
+- images/festivals-2026-2027/pongal-2027.jpg
+- images/festivals-2026-2027/raksha-bandhan-2027.jpg
+- images/festivals-2026-2027/rath-yatra-2027.jpg
+- images/festivals-2026-2027/sharad-purnima-2026.jpg
+- images/festivals-2026-2027/ugadi-2027.jpg
+- images/flooring-design-balcony.jpg
+- images/flooring-design-balcony.webp
+- images/flooring-design-brass-inlay-room.jpg
+- images/flooring-design-brass-inlay-room.webp
+- images/flooring-design-checkerboard-lobby.jpg
+- images/flooring-design-checkerboard-lobby.webp
+- images/flooring-design-commercial-corridor.jpg
+- images/flooring-design-commercial-corridor.webp
+- images/flooring-design-corridor-medallion-poster.jpg
+- images/flooring-design-corridor-medallion-poster.webp
+- images/flooring-design-corridor-squares.jpg
+- images/flooring-design-corridor-squares.webp
+- images/flooring-design-dark-polish-diamond-dots.jpg
+- images/flooring-design-dark-polish-diamond-dots.webp
+- images/flooring-design-diagonal-warmtone-corridor.jpg
+- images/flooring-design-diagonal-warmtone-corridor.webp
+- images/flooring-design-diamond-border-terrace.jpg
+- images/flooring-design-diamond-border-terrace.webp
+- images/flooring-design-grid-diamond-closeup.jpg
+- images/flooring-design-grid-diamond-closeup.webp
+- images/flooring-design-grid-diamond-floral-border.jpg
+- images/flooring-design-grid-diamond-floral-border.webp
+- images/flooring-design-grid-diamond-purple-corner.jpg
+- images/flooring-design-grid-diamond-purple-corner.webp
+- images/flooring-design-grid-diamond-red-border.jpg
+- images/flooring-design-grid-diamond-red-border.webp
+- images/flooring-design-grid-medallion-cabinet.jpg
+- images/flooring-design-grid-medallion-cabinet.webp
+- images/flooring-design-grid-red-dots-wet.jpg
+- images/flooring-design-grid-red-dots-wet.webp
+- images/flooring-design-grid-warehouse-closeup.jpg
+- images/flooring-design-grid-warehouse-closeup.webp
+- images/flooring-design-hallway-marble-grid-led.jpg
+- images/flooring-design-hallway-marble-grid-led.webp
+- images/flooring-design-multitone-room.jpg
+- images/flooring-design-multitone-room.webp
+- images/flooring-design-octagon-charcoal.jpg
+- images/flooring-design-octagon-charcoal.webp
+- images/flooring-design-pink-corridor-grid.jpg
+- images/flooring-design-pink-corridor-grid.webp
+- images/flooring-design-plain-grid-simple.jpg
+- images/flooring-design-plain-grid-simple.webp
+- images/flooring-design-reception-octagon.jpg
+- images/flooring-design-reception-octagon.webp
+- images/flooring-design-red-polish-wet-reflection.jpg
+- images/flooring-design-red-polish-wet-reflection.webp
+- images/flooring-design-showroom-two-samples.jpg
+- images/flooring-design-showroom-two-samples.webp
+- images/flooring-design-terrace-octagon-rooftop.jpg
+- images/flooring-design-terrace-octagon-rooftop.webp
+- images/flooring-design-tradeshow-samples.jpg
+- images/flooring-design-tradeshow-samples.webp
+- images/flooring-design-wet-diamond-courtyard.jpg
+- images/flooring-design-wet-diamond-courtyard.webp
+- images/flooring-designs/basalt-courtyard-cobble.jpg
+- images/flooring-designs/basalt-courtyard-cobble.webp
+- images/flooring-designs/basalt-stepping-floor.jpg
+- images/flooring-designs/basalt-stepping-floor.webp
+- images/flooring-designs/cobbles-courtyard-pattern.jpg
+- images/flooring-designs/cobbles-courtyard-pattern.webp
+- images/flooring-designs/cobbles-driveway-band.jpg
+- images/flooring-designs/cobbles-driveway-band.webp
+- images/flooring-designs/kandla-grey-patio-grid.jpg
+- images/flooring-designs/kandla-grey-patio-grid.webp
+- images/flooring-designs/kandla-grey-random-paving.jpg
+- images/flooring-designs/kandla-grey-random-paving.webp
+- images/flooring-designs/kota-diamond-border-floor.jpg
+- images/flooring-designs/kota-diamond-border-floor.webp
+- images/flooring-designs/kota-mandana-checker-floor.jpg
+- images/flooring-designs/kota-mandana-checker-floor.webp
+- images/flooring-designs/kota-octagon-inlay-floor.jpg
+- images/flooring-designs/kota-octagon-inlay-floor.webp
+- images/flooring-designs/kota-polished-living-floor.jpg
+- images/flooring-designs/kota-polished-living-floor.webp
+- images/flooring-designs/mandana-red-geometric-floor.jpg
+- images/flooring-designs/mandana-red-geometric-floor.webp
+- images/flooring-designs/mandana-star-inlay-floor.jpg
+- images/flooring-designs/mandana-star-inlay-floor.webp
+- images/full-kota-stone-process-poster.jpg
+- images/full-kota-stone-process-poster.webp
+- images/kandla-grey-natural.jpg
+- images/kandla-grey-natural.webp
+- images/kandla-grey-quarry-blocks.jpg
+- images/kandla-grey-quarry-blocks.webp
+- images/kandla-grey-sawn.jpg
+- images/kandla-grey-sawn.webp
+- images/kandla-grey-stack.jpg
+- images/kota-brown-22x16.jpg
+- images/kota-brown-22x16.webp
+- images/kota-brown-cubes.jpg
+- images/kota-brown-cubes.webp
+- images/kota-brown-honed-face.jpg
+- images/kota-brown-honed-face.webp
+- images/kota-brown-honed.jpg
+- images/kota-brown-honed.webp
+- images/kota-brown-honey.jpg
+- images/kota-brown-honey.webp
+- images/kota-brown-polished-edge.jpg
+- images/kota-brown-polished-edge.webp
+- images/kota-brown-polished-floor.jpg
+- images/kota-brown-polished-floor.webp
+- images/kota-brown-polished-pack.jpg
+- images/kota-brown-polished-pack.webp
+- images/kota-brown-polished.jpg
+- images/kota-brown-polished.webp
+- images/kota-brown-stacks.jpg
+- images/kota-brown-stacks.webp
+- images/kota-brown-yard.jpg
+- images/kota-calibrated-stack.jpg
+- images/kota-calibrated-stack.webp
+- images/kota-cobbles-mixed.jpg
+- images/kota-cobbles-stock.jpg
+- images/kota-cobbles-stock.webp
+- images/kota-cobbles.jpg
+- images/kota-cobbles.webp
+- images/kota-cotton-blue.jpg
+- images/kota-cotton-brown.jpg
+- images/kota-cotton-brown.webp
+- images/kota-diamond-cut-edge.jpg
+- images/kota-diamond-cut-edge.webp
+- images/kota-diamond-cut-face.jpg
+- images/kota-diamond-cut-face.webp
+- images/kota-diamond-cut-stack.jpg
+- images/kota-diamond-cut-stack.webp
+- images/kota-diamond-cut.jpg
+- images/kota-diamond-cut.webp
+- images/kota-dispatch.jpg
+- images/kota-dispatch.webp
+- images/kota-fresh-22x22.jpg
+- images/kota-fresh-22x22.webp
+- images/kota-fresh-55x2.jpg
+- images/kota-fresh-55x2.webp
+- images/kota-fresh-6x2.jpg
+- images/kota-fresh-6x2.webp
+- images/kota-fresh-7x2.jpg
+- images/kota-fresh-7x2.webp
+- images/kota-fresh-longslabs.jpg
+- images/kota-fresh-longslabs.webp
+- images/kota-fresh-slabyard.jpg
+- images/kota-fresh-slabyard.webp
+- images/kota-fresh-stacks.jpg
+- images/kota-fresh-stacks.webp
+- images/kota-fresh-tile.jpg
+- images/kota-fresh-yard.jpg
+- images/kota-fresh-yard.webp
+- images/kota-green-46x22.jpg
+- images/kota-green-46x22.webp
+- images/kota-green-calibrated.jpg
+- images/kota-green-calibrated.webp
+- images/kota-green-leather.jpg
+- images/kota-green-leather.webp
+- images/kota-green-polished.jpg
+- images/kota-green-polished.webp
+- images/kota-green-slabs.jpg
+- images/kota-green-slabs.webp
+- images/kota-green-stacks.jpg
+- images/kota-grey-loading.jpg
+- images/kota-grey-loading.webp
+- images/kota-grey-natural.jpg
+- images/kota-grey-natural.webp
+- images/kota-grey-yard-wall.jpg
+- images/kota-grey-yard-wall.webp
+- images/kota-handling.jpg
+- images/kota-highpolish-slab.jpg
+- images/kota-highpolish-slab.webp
+- images/kota-highpolish-wall.jpg
+- images/kota-highpolish-wall.webp
+- images/kota-lapatro-face.jpg
+- images/kota-lapatro-face.webp
+- images/kota-lapatro-square.jpg
+- images/kota-lapatro-square.webp
+- images/kota-lapatro-texture.jpg
+- images/kota-lapatro-texture.webp
+- images/kota-lapatro-tile.jpg
+- images/kota-lapatro-tile.webp
+- images/kota-leather-blue.jpg
+- images/kota-leather-blue.webp
+- images/kota-leather-detail.jpg
+- images/kota-leather-face.jpg
+- images/kota-leather-face.webp
+- images/kota-leather.jpg
+- images/kota-leather.webp
+- images/kota-loading-yard.jpg
+- images/kota-loading-yard.webp
+- images/kota-medium-22x22.jpg
+- images/kota-medium-stacks.jpg
+- images/kota-medium-stacks.webp
+- images/kota-medium-yard.jpg
+- images/kota-mirror-22x22.jpg
+- images/kota-mirror-22x22.webp
+- images/kota-mirror-detail.jpg
+- images/kota-mirror-detail.webp
+- images/kota-mirror-loaded.jpg
+- images/kota-mirror-loaded.webp
+- images/kota-mirror-packed.jpg
+- images/kota-mirror-packed.webp
+- images/kota-mirror-slab-single.jpg
+- images/kota-mirror-slab-single.webp
+- images/kota-mirror-slabs-row.jpg
+- images/kota-mirror-slabs-row.webp
+- images/kota-mirror-slabs.jpg
+- images/kota-mirror-slabs.webp
+- images/kota-mirror-stack.jpg
+- images/kota-mirror-stack.webp
+- images/kota-polish-noncal-angle.jpg
+- images/kota-polish-noncal-angle.webp
+- images/kota-polish-noncal-face.jpg
+- images/kota-polish-noncal-face.webp
+- images/kota-polish-noncal.jpg
+- images/kota-polish-noncal.webp
+- images/kota-polish-video-poster.jpg
+- images/kota-polish-video-poster.webp
+- images/kota-polished-22x22.jpg
+- images/kota-polished-22x22.webp
+- images/kota-polished-detail.jpg
+- images/kota-polished-detail.webp
+- images/kota-polished-top.jpg
+- images/kota-polished-top.webp
+- images/kota-river-blue.jpg
+- images/kota-river-blue.webp
+- images/kota-river-texture.jpg
+- images/kota-river-texture.webp
+- images/kota-rock-faced-stack.jpg
+- images/kota-rock-faced-yard.jpg
+- images/kota-rock-faced-yard.webp
+- images/kota-rock-faced.jpg
+- images/kota-satin-blue.jpg
+- images/kota-satin-blue.webp
+- images/kota-table-polish.jpg
+- images/kota-table-polish.webp
+- images/kota-waterproof-face.jpg
+- images/kota-waterproof-face.webp
+- images/kota-waterproof-laid.jpg
+- images/kota-waterproof-laid.webp
+- images/kota-waterproof-poster.jpg
+- images/kota-waterproof-poster.webp
+- images/kota-waterproof-stack.jpg
+- images/kota-waterproof-stack.webp
+- images/kota-waterproof-tiles.jpg
+- images/kota-waterproof-tiles.webp
+- images/mandana-22x22.jpg
+- images/mandana-22x22.webp
+- images/mandana-diamond-detail.jpg
+- images/mandana-diamond-detail.webp
+- images/mandana-diamond-polished.jpg
+- images/mandana-diamond-polished.webp
+- images/mandana-honed.jpg
+- images/mandana-honed.webp
+- images/mandana-loading-poster.jpg
+- images/mandana-loading-poster.webp
+- images/mandana-mirror-slab.jpg
+- images/mandana-mirror-slab.webp
+- images/mandana-polished.jpg
+- images/mandana-polished.webp
+- images/mandana-random-slabs.jpg
+- images/mandana-random-slabs.webp
+- images/mandana-slab-stack.jpg
+- images/mandana-yard-stacks-wide.jpg
+- images/mandana-yard-stacks-wide.webp
+- images/mandana-yard-stacks.jpg
+- images/mandana-yard-stacks.webp
+- images/og-default.jpg
+- images/partner-bhushan.jpg
+- images/partner-bhushan.webp
+- images/partner-jaiprakash.jpg
+- images/partner-pankaj.jpg
+- images/project-kota-floor.jpg
+- images/project-kota-floor.webp
+- images/quarry-block-red.jpg
+- images/quarry-block-red.webp
+- images/quarry-blocks.jpg
+- images/quarry-blocks.webp
+- images/raj-green-natural.jpg
+- images/raj-green-sawn.jpg
+- images/raj-green-sawn.webp
+- images/raj-green-stack.jpg
+- images/raj-green-stack.webp
+- images/right-angle-double-edge-cutting-poster.jpg
+- images/right-angle-double-edge-cutting-poster.webp
+- images/star-group-logo.png
+- images/table-polish-poster.jpg
+- images/table-polish-poster.webp
+- images/welcome-message-poster.jpg
+- images/welcome-message-poster.webp
+- images/yard-stock.jpg
+- images/yard-stock.webp
+- media/calibration-line-polisher.mp4
+- media/diamond-polish.mp4
+- media/flooring-design-corridor-medallion.mp4
+- media/full-kota-stone-process.mp4
+- media/kota-polish-22x22.mp4
+- media/kota-waterproof-clip.mp4
+- media/mandana-loading.mp4
+- media/right-angle-double-edge-cutting.mp4
+- media/table-polish.mp4
+- media/welcome-message.mp4
+
+=== ANSWERING RULES ===
+- Never invent a rate, stock position, delivery promise, technical certification, or watermark status.
+- For current prices, ask for stone, grade, finish, thickness, size, quantity and delivery pin code; use only the published rate facts in this file.
+- For an image or video request, link the relevant gallery/process page rather than claiming a visual was personally inspected.
+- For final visual selection, recommend a physical sample and confirmation from the sales team.
+- If a visitor asks about the AI Stone Camera, explain that it is a visual approximation and not a survey, CAD drawing or final quotation.
+- If a visitor asks about watermark coverage, say the deployment audit records media references but visible watermarking on every video frame/image must be confirmed by a human visual review.
